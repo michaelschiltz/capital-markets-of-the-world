@@ -425,24 +425,3 @@ the avoidance of doubt, this paragraph does not form part of the
 public licenses.
 
 Creative Commons may be contacted at creativecommons.org.
-Copy license text to clipboard
-How to apply this license
-
-Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file. It is also acceptable to soley supply a link to a copy of the license, usually to the canonical URL for the license.
- Source
-Permissions
-
- Commercial Use
- Distribution
- Modification
- Private Use
-Conditions
-
- License and Copyright Notice
- Same License
- State Changes
-Limitations
-
- Hold Liable
- Patent Use
- Trademark U
