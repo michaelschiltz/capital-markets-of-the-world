@@ -31,5 +31,3 @@ French.
 * Le Journal d’Alexandrie et La Bourse Égyptienne*. n.d. Alexandrie: Société égyptienne de publicité.
 * Raafat, Samir W. 2010. The Egyptian Bourse. Cairo: Zeitouna.
 * Vercamer, Em. 1904. *La Question Internationale Des Jeux de Bourse En Ègypte*. Bruxelles: Bruylant-Christophe, & cie, E. Bruylant, successeur; [etc., etc.].
-
-![image of the Bourse d'Alexandrie on Gallica](http://gallica.bnf.fr/ark:/12148/btv1b90273625)
