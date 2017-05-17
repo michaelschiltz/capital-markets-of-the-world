@@ -14,7 +14,7 @@ Officielle Kurser, 1890-1929
 [s.n.]
 
 ## Place of Publication & Name of Publisher
-* [s.l.]; [s.n.] (1890-1902; 1909-1912; 1919-1920 (March); 
+* [s.l.]; [s.n.] (1890-1902; 1909-1912; 1919-1920 (March);
 * 1929. Kjøbenhavns: Berlingske Tidendes Officin (1920 [April-Dec.]). 
 
 ## Holdings Overview
