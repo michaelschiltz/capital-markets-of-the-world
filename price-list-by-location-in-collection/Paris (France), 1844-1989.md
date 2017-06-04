@@ -35,6 +35,7 @@ French
 * Hissung-Convert, Nelly. 2009. *La Spéculation Boursière Face Au Droit 1799-1914*. Bibliothèque de Droit Privé, t. 511. Paris: L.G.D.J.
 * Lagneau-Ymonet, Paul, and Angelo Riva. 2012. *Histoire de La Bourse*. Collection Repères. Histoire 591. Paris: Découverte.
 * Mattei, Édouard. 2001. *La Bourse En Son Palais*. Paris: Biro.
+* Thiveaud, Jean Marie. 1998. “Le phénomène financier et les marchés financiers en perspective historique : des sociétés antiques à la création de la bourse de Paris, en 1724.” *Revue d’économie financière* 48 (4): 21–43. doi:10.3406/ecofi.1998.4582.
 * Walker, Donald A. 2001. “A Factual Account of the Functioning of the Nineteenth-Century Paris Bourse.” *The European Journal of the History of Economic Thought* 8 (2): 186–207. doi:10.1080/0967256011039281.
 
 # Title
