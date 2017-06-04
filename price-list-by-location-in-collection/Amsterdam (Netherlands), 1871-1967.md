@@ -63,4 +63,5 @@ French, Dutch.
 * ———. 1988. “The Rise of a Financial Press: London and Amsterdam, 1681–1810.” *Business History* 30 (2): 163–78. http://www.tandfonline.com/doi/pdf/10.1080/00076798800000029.
 * ———. 1993. *The Rise of Financial Capitalism: International Capital Markets in the Age of Reason*. Cambridge University Press. https://books.google.ch/books?hl=en&lr=&id=ey8h1WC5w7kC&oi=fnd&pg=PR9&dq=amsterdam+stock+exchange+history+effectenhandel&ots=rJcMWEXpgS&sig=fVsBzILcp_nl0UiviPziCDOq0iI.
 * Petram, Lodewijk. 2014. *The World’s First Stock Exchange*. Columbia University Press.
+* Smith, M. F. J. 1919. *Tijd-Affaires in effecten aan de Amsterdamsche Beurs: door Dr. M. F. J. Smith*. Nijhoff.
 * Winden, Martien van. 2000. *Rijk Blijven: Het Ijzersterke Verhaal van 4 Eeuwen Nederlandse Rente En Aandelen*. 2. druk. Amsterdam: Balans.
