@@ -57,5 +57,9 @@ French, Dutch.
 
 ## List of References
 * Hem, Piet van der, and H. P. L. Wiessing. 1915. Het Raadsel van de Sphinx: Heropening van de Amsterdamsche Effectenbeurs, 9 Febr. 1915. Graphic.
+* Neal, Larry. 1982. “Efficient Markets in the Eighteenth Century? Stock Exchanges in Amsterdam and London.” *Business and Economic History*, 81–101. http://www.jstor.org/stable/23702759.
+* ———. 1987. “The Integration and Efficiency of the London and Amsterdam Stock Markets in the Eighteenth Century.” *The Journal of Economic History* 47 (01): 97–115. http://journals.cambridge.org/article_S0022050700047434.
+* ———. 1988. “The Rise of a Financial Press: London and Amsterdam, 1681–1810.” *Business History* 30 (2): 163–78. http://www.tandfonline.com/doi/pdf/10.1080/00076798800000029.
+* ———. 1993. *The Rise of Financial Capitalism: International Capital Markets in the Age of Reason*. Cambridge University Press. https://books.google.ch/books?hl=en&lr=&id=ey8h1WC5w7kC&oi=fnd&pg=PR9&dq=amsterdam+stock+exchange+history+effectenhandel&ots=rJcMWEXpgS&sig=fVsBzILcp_nl0UiviPziCDOq0iI.
 * Petram, Lodewijk. 2014. *The World’s First Stock Exchange*. Columbia University Press.
 * Winden, Martien van. 2000. *Rijk Blijven: Het Ijzersterke Verhaal van 4 Eeuwen Nederlandse Rente En Aandelen*. 2. druk. Amsterdam: Balans.
