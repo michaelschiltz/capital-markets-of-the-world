@@ -56,6 +56,7 @@ Description based on a complete survey of the collection.
 French, Dutch.
 
 ## List of References
+* Grossmann, Julius. Die Amsterdam Borse Vor 200 Jahren : Ein Beitrag Zur Geschichte Der Politik Und Des ..: Ein Beitrag Zur Geschichte Der Politik Und Des ... Haag : Martinus Nijhoff, 1876.
 * Hem, Piet van der, and H. P. L. Wiessing. 1915. Het Raadsel van de Sphinx: Heropening van de Amsterdamsche Effectenbeurs, 9 Febr. 1915. Graphic.
 * Neal, Larry. 1982. “Efficient Markets in the Eighteenth Century? Stock Exchanges in Amsterdam and London.” *Business and Economic History*, 81–101. http://www.jstor.org/stable/23702759.
 * ———. 1987. “The Integration and Efficiency of the London and Amsterdam Stock Markets in the Eighteenth Century.” *The Journal of Economic History* 47 (01): 97–115. http://journals.cambridge.org/article_S0022050700047434.
