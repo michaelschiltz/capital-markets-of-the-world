@@ -5,6 +5,11 @@ Official Price Lists, 1871-1967
 * Cours officiel de la Bourse (1871-1900)
 * Prijscourant : Uitgegeven door de Vereeniging voor den Effectenhandel te Amsterdam (1918(1)-1952 (April-June)
 * Vereeniging voor den Effectenhandel Amsterdam - Officiële Prijscourant (1952 (Oct.-Dec.)-1967).
+* for a comprehensive run of this market, see the collections in the Koninklijke Nationale Bibliotheek (Den Haag):
+  * Amsterdamsch Effectenblad. 1843–1943. Amsterdam: T. Geers Jz.
+  * Het Amsterdamsch Handels- En Effectenblad. 1863–1864. Amsterdam: P.D. van Es.
+  * Nieuw Amsterdamsch Handels- En Effectenblad. 1857–1863. Amsterdam.
+  * Prys-Courant Der Effecten, Berichten van Negotiatiën, Uitlotinge, Aflossingen En Betaalingen van Interessen. 1796–1842. Amsterdam: N. Cotray.
 
 ## Author(s)/Editor(s)
 * [s.n.] (1871-1875)
