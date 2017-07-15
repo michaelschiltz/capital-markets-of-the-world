@@ -4,7 +4,7 @@ Alexandria Stock Exchange (Egypt), 1894-1970
 ## Successive Titles
 * Crédit Lyonnais - Agence d'Alexandrie (1894-1896)
 * Bourse d’Alexandrie : Bulletin hebdomadaire (1906 to 1931)
-* Cote officielle de la Bourse des valeurs d'Alexandrie (1955 to 1958 (Jan.-June)
+* Cote officielle de la Bourse des valeurs d'Alexandrie (1955 to 1958 (Jan.-June))
 * Chambre syndicale des agents de change d'Alexandrie -  Société de Publication Egyptienne (SAE) (1958 (July-Dec.) to 1961 (Jan.-June)
 * Cote officielle de la Bourse des valeurs d'Alexandrie (1961 (July-Dec.) to 1970)
 
