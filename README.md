@@ -1,5 +1,7 @@
 # capital-markets-of-the-world
 
+```“I think it’s wrong that only one company makes the game Monopoly.” ―Steven Wright```
+
 ## Introduction ##
 
 At its outset, the Capital Markets of the World project was conceived as a historical investigation in what could be called the ‘information system(s)’ that have been responsible for the production and dissemination of price-sensitive stock-exchange information. Its tenet was derived from practical concerns related to the consultation and interpretation of a collection of multi-market financial information gathered by the *Crédit Lyonnais Service des Etudes Financières*, and currently hosted by the [Graduate Institute](http://graduateinstitute.ch/home.html), Geneva (hereafter referred to as ‘the Collection’; cf. infra). Over time, the regular, yet initially ‘naive’, use of these primary materials bred an ethnological awareness of informative differences that are typically sterilized or even erased in the conventional practice of extracting lists of data from primary sources.
