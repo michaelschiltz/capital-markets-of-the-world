@@ -2,10 +2,10 @@
 Bilbao Stock Exchange (Spain), 1900-1931
 
 ## Successive Titles
-Boletín de cotización oficial de la Bolsa de Comercio de Bilbao (1900; 1910; 1918; 1920; 1930(1).  
+Boletín de cotización oficial de la Bolsa de Comercio de Bilbao (1900; 1910; 1918; 1920; 1930(1)).  
 
 ## Author(s)/Editor(s)
-Colegio de Agentes de Cambio y Bolsa (1900; 1910; 1918; 1920; 1930(1).
+Colegio de Agentes de Cambio y Bolsa (1900; 1910; 1918; 1920; 1930(1)).
 
 ## Place of Publication & Name of Publisher
 Bilbao: Imp. de A. Apellãniz (1900); Establecimiento Tipográfico de la Revista Bilbao, Mercantil, Minera, Industria e Maritima (1910);  Imprenta de G. Ibáñez (1920);  [s.n.] (1930(1).
