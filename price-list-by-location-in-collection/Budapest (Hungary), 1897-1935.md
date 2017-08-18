@@ -34,3 +34,47 @@ Hungarian, German.
 * *Hungarian Financial and Stock Exchange Almanac*. 1991. Budapest: TAS Ltd.
 * Mérő, Katalin. 1988. *Az értéktőzsde Szerepe és Jelentősége a Tőkés Magyarország Gazdasági életében, 1864-1944*. Tőzsdeelméleti Tanulmányok, 1 köt. Budapest: Magyar Tőzsdealapítvány kiadványa.
 * Scheuer, Gyula. 1990. *A Budapesti Értéktőzsde: A Magyarországi értékpapírpiac a Két Világháború Között*. Tőzsdeelméleti Tanulmányok, 4. köt. Budapest: Magyar Tőzsdealapítvány.
+
+## Holdings (detailed)
+
+| Location | Year | Title (according to book spine) | Detailed Bibliographic Info (according to source)           | Publisher                                                                   |
+|----------|------|---------------------------------|-------------------------------------------------------------|-----------------------------------------------------------------------------|
+| Budapest | 1897 | Cote de Budapesth - 1897        | Amtliches Cursblatt der Budapester Waaren und Effectenbörse | Pesti Lloyd-Tarsulat Könyvnyomdaja (Felelös Vezetö : Müller Agoston)        |
+| Budapest | 1898 | Cote de Budapesth - 1898        | Amtliches Cursblatt der Budapester Waaren und Effectenbörse | Pesti Lloyd-Tarsulat Könyvnyomdaja (Felelös Vezetö : Müller Agoston)        |
+| Budapest | 1899 | Cote de Budapesth - 1899        | Amtliches Cursblatt der Budapester Waaren und Effectenbörse | Pesti Lloyd-Tarsulat Könyvnyomdaja (Felelös Vezetö : Müller Agoston)        |
+| Budapest | 1900 | Cote de Budapesth - 1900        | Amtliches Cursblatt der Budapester Waaren und Effectenbörse | Pesti Lloyd-Tarsulat Könyvnyomdaja (Felelös Vezetö : Müller Agoston)        |
+| Budapest | 1901 | Cote de Budapesth - 1901        | Amtliches Cursblatt der Budapester Waaren und Effectenbörse | Pesti Lloyd-Tarsulat Könyvnyomdaja (Felelös Vezetö : Müller Agoston)        |
+| Budapest | 1902 | Cote de Budapesth - 1902        | Amtliches Cursblatt der Budapester Waaren und Effectenbörse | Pesti Lloyd-Tarsulat Könyvnyomdaja (Felelös Vezetö : Müller Agoston)        |
+| Budapest | 1903 | Cote de Budapesth - 1903        | Amtliches Kursblatt der Budapester Waaren und Effectenbörse | Pesti Lloyd-Tarsulat Könyvnyomdaja (Felelös Vezetö : Kozol Antal J.)        |
+| Budapest | 1904 | Cote de Budapesth - 1904        | Amtliches Kursblatt der Budapester Waaren und Effectenbörse | Pesti Lloyd-Tarsulat Könyvnyomdaja (Felelös Vezetö : Kozol Antal J.)        |
+| Budapest | 1905 | Cote de Budapesth - 1905        | Amtliches Kursblatt der Budapester Waaren und Effectenbörse | Pesti Lloyd-Tarsulat Könyvnyomdaja (Felelös Vezetö : Kozol Antal J.)        |
+| Budapest | 1906 | Cote de Budapesth - 1906 (1)    | Amtliches Kursblatt der Budapester Waaren und Effectenbörse | Pesti Lloyd-Tarsulat Könyvnyomdaja (Felelös Vezetö : Kozol Antal J.)        |
+| Budapest | 1906 | Cote de Budapesth - 1906 (2)    | Amtliches Kursblatt der Budapester Waaren und Effectenbörse | Pesti Lloyd-Tarsulat Könyvnyomdaja (Felelös Vezetö : Kozol Antal J.)        |
+| Budapest | 1907 | Cote de Budapesth - 1907        | Amtliches Kursblatt der Budapester Waaren und Effectenbörse | Pesti Lloyd-Tarsulat Könyvnyomdaja (Felelös Vezetö : Kozol Antal J.)        |
+| Budapest | 1908 | Cote de Budapest - 1908         | Amtliches Kursblatt der Budapester Waaren und Effectenbörse | Pesti Lloyd-Tarsulat nyomdaja (Felelös es Muszaki Vezetö : Krausz Soma)     |
+| Budapest | 1909 | Bourse de Budapest - 1909       | Amtliches Kursblatt der Budapester Waaren und Effectenbörse | Pesti Lloyd-Tarsulat nyomdaja (Felelös es Muszaki Vezetö : Krausz Soma)     |
+| Budapest | 1910 | Cote de Budapest - 1910         | Amtliches Kursblatt der Budapester Waaren und Effectenbörse | Pesti Lloyd-Tarsulat nyomdaja (Felelös es Muszaki Vezetö : Krausz Soma)     |
+| Budapest | 1911 | Cote de Budapest - 1911         | Amtliches Kursblatt der Budapester Waaren und Effectenbörse | Pesti Lloyd-Tarsulat nyomdaja (Felelös es Muszaki Vezetö : Krausz Soma)     |
+| Budapest | 1912 | Bourse de Budapest - 1912       | Amtliches Kursblatt der Budapester Waaren und Effectenbörse | Pesti Lloyd-Tarsulat nyomdaja (Felelös es Muszaki Vezetö : Krausz Soma)     |
+| Budapest | 1913 | Cote de Budapesth - 1913        | Amtliches Kursblatt der Budapester Waaren und Effectenbörse | Pesti Lloyd-Tarsulat nyomdaja (Felelös es Muszaki Vezetö : Markus Pal)      |
+| Budapest | 1914 | Bourse de Budapest - 1914       | Amtliches Kursblatt der Budapester Waaren und Effectenbörse | Pesti Lloyd-Tarsulat nyomdaja (Felelös es Muszaki Vezetö : Markus Pal)      |
+| Budapest | 1921 | Bourse de Budapest - 1921       | A Budapesti Aru- Es Ertektözsde Hivatalos Arjegyzö Lapja    | Pesti Lloyd-Tarsulat nyomdaja (Felelös es Muszaki Vezetö : Markus Pal)      |
+| Budapest | 1922 | Bourse de Budapest - 1922       | A Budapesti Aru- Es Ertektözsde Hivatalos Arjegyzö Lapja    | Pesti Lloyd-Tarsulat nyomdaja (Felelös es Muszaki Vezetö : Markus Pal)      |
+| Budapest | 1923 | Bourse de Budapest - 1923       | A Budapesti Aru- Es Ertektözsde Hivatalos Arjegyzö Lapja    | Pesti Lloyd-Tarsulat nyomdaja (Felelös es Muszaki Vezetö : Markus Pal)      |
+| Budapest | 1924 | Bourse de Budapest - 1924       | A Budapesti Aru- Es Ertektözsde Hivatalos Arjegyzö Lapja    | Pesti Lloyd-Tarsulat nyomdaja (Felelös es Muszaki Vezetö : Markus Pal)      |
+| Budapest | 1925 | Bourse de Budapest - 1925       | A Budapesti Aru- Es Ertektözsde Hivatalos Arjegyzö Lapja    | Pesti Lloyd-Tarsulat nyomdaja (Felelös es Muszaki Vezetö : Markus Pal)      |
+| Budapest | 1926 | Cote de Budapest - 1926         | A Budapesti Aru- Es Ertektözsde Hivatalos Arjegyzö Lapja    | Pesti Lloyd-Tarsulat nyomdaja (Felelös es Muszaki Vezetö : Markus Pal)      |
+| Budapest | 1927 | Cote de Budapest - 1927         | A Budapesti Aru- Es Ertektözsde Hivatalos Arjegyzö Lapja    | Pesti Lloyd-Tarsulat nyomdaja (Felelös es Muszaki Vezetö : Markus Pal)      |
+| Budapest | 1928 | Bourse de Budapest - 1928       | A Budapesti Aru- Es Ertektözsde Hivatalos Arjegyzö Lapja    | Pesti Lloyd-Tarsulat nyomdaja (Felelös es Muszaki Vezetö : Markus Pal)      |
+| Budapest | 1929 | Cote de Budapest - 1929 (1)     | A Budapesti Aru- Es Ertektözsde Hivatalos Arjegyzö Lapja    | Pesti Lloyd-Tarsulat nyomdaja (Felelös es Muszaki Vezetö : Markus Pal)      |
+| Budapest | 1929 | Cote de Budapest - 1929 (2)     | A Budapesti Aru- Es Ertektözsde Hivatalos Arjegyzö Lapja    | Pesti Lloyd-Tarsulat nyomdaja (Felelös es Muszaki Vezetö : Markus Pal)      |
+| Budapest | 1930 | Cote de Budapest - 1930 (1)     | A Budapesti Aru- Es Ertektözsde Hivatalos Arjegyzö Lapja    | Pesti Lloyd-Tarsulat nyomdaja (Felelös es Muszaki Vezetö : Markus Pal)      |
+| Budapest | 1930 | Cote de Budapest - 1930 (2)     | A Budapesti Aru- Es Ertektözsde Hivatalos Arjegyzö Lapja    | Pesti Lloyd-Tarsulat nyomdaja (Felelös es Muszaki Vezetö : Markus Pal)      |
+| Budapest | 1931 | Cote de Budapest - 1931 (1)     | A Budapesti Aru- Es Ertektözsde Hivatalos Arjegyzölapja     | Pesti Lloyd-Tarsulat nyomdaja (Felelös es Muszaki Vezetö : Markus Pal)      |
+| Budapest | 1931 | Cote de Budapest - 1931 (2)     | A Budapesti Aru- Es Ertektözsde Hivatalos Arjegyzölapja     | Pesti Lloyd-Tarsulat nyomdaja (Felelös es Muszaki Vezetö : Markus Pal)      |
+| Budapest | 1932 | Cote de Budapest - 1932 (2)     | A Budapesti Aru- Es Ertektözsde Hivatalos Arjegyzölapja     | Pesti Lloyd-Tarsulat nyomdaja (Felelös es Muszaki Vezetö : Schulmann Ignac) |
+| Budapest | 1932 | Cote de Budapest - 1932 (1)     | A Budapesti Aru- Es Ertektözsde Hivatalos Arjegyzölapja     | Pesti Lloyd-Tarsulat nyomdaja (Felelös es Muszaki Vezetö : Schulmann Ignac) |
+| Budapest | 1933 | Cote de Budapest - 1933 (1)     | A Budapesti Aru- Es Ertektözsde Hivatalos Arjegyzölapja     | Pesti Lloyd-Tarsulat nyomdaja (Felelös es Muszaki Vezetö : Schulmann Ignac) |
+| Budapest | 1933 | Cote de Budapest - 1933 (2)     | A Budapesti Aru- Es Ertektözsde Hivatalos Arjegyzölapja     | Pesti Lloyd-Tarsulat nyomdaja (Felelös es Muszaki Vezetö : Schulmann Ignac) |
+| Budapest | 1934 | Cote de Budapest - 1934         | A Budapesti Aru- Es Ertektözsde Hivatalos Arjegyzölapja     | Pesti Lloyd-Tarsulat nyomdaja (Felelös es Muszaki Vezetö : Schulmann Ignac) |
+| Budapest | 1935 | Cote de Budapest - 1935         | A Budapesti Aru- Es Ertektözsde Hivatalos Arjegyzölapja     | Pesti Lloyd-Tarsulat nyomdaja (Felelös es Muszaki Vezetö : Schulmann Ignac) |
