@@ -3,7 +3,7 @@ Boletín oficial, 1895-1936
 
 ## Successive Titles
 * Boletin quincenal de precios corrientes (1895-1899; 1903-1904; 1910)
-* Boletín oficial de la Bolsa de Comercio (1920; 1930(1). 
+* Boletín oficial de la Bolsa de Comercio (1920; 1930(1)). 
 
 ## Author(s)/Editor(s)
 Bolsa de comercio de Buenos Aires (1895-1899; 1903-1904; 1910; 1920; 1930(1). 
