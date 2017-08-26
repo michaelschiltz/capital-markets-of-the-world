@@ -2,7 +2,7 @@
 Officielle Kurser, 1890-1929
 
 ## Successive Titles
-* Den Danske Landmandsbank Hypothek og Vekselbank. Kjöbenhavn: Börskurs (1890 to 1894)* 
+* Den Danske Landmandsbank Hypothek og Vekselbank. Kjöbenhavn: Börskurs (1890 to 1894) 
 * Kjøbenhavns Handelsbank [date]: Børscours (1894)
 * Den Danske Landmandsbank Hypothek og Vekselbank. Kjöbenhavn: Börskurs/ Kjøbenhavns Handelsbank [date]: Børscours (1895 to 1897)*
 * Kjøbenhavns Handelsbank: Veksel-Kurser (1909-1912)
