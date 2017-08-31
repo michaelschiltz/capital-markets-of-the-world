@@ -42,6 +42,4 @@ Italian.
 | Florence | 1902      | Cours de la Bourse de Florence - 1902      |                                                                                                                                                |
 | Florence | 1903      | Cours de la Bourse de Florence - 1903      |                                                                                                                                                |
 | Florence | 1904      | Cours de la Bourse de Florence - 1904      |                                                                                                                                                |
-| Florence | 1905      | Cours de la Bourse de Florence - 1905      |                                                                                                                                                |
-|          |           |                                            |                                                                                                                                                |
-|          |           |                                            |                                                                                                                                                |
+| Florence | 1905      | Cours de la Bourse de Florence - 1905      |                  |                                      
