@@ -51,3 +51,13 @@ English.
 
 ## List of References
 * Bryant, Margot. 1987. *Taking Stock: Johannesburg Stock Exchange, the First 100 Years*. 1st ed. Johannesburg: Jonathan Ball Publishers.
+
+## Holdings (complete)
+| Location     | Year      | Title (according to book spine)                     | Detailed Bibliographic Info (according to source) |
+|--------------|-----------|-----------------------------------------------------|---------------------------------------------------|
+| Johannesburg | 1963-1965 | Cote de Johannesburg 1963-1965                      |                                                   |
+| Johannesburg | 1966      | Cote de Johannesburg - 1966                         |                                                   |
+| Johannesburg | 1967      | Cote de Johannesburg - 1967                         |                                                   |
+| Johannesburg | 1968      | Cote de Johannesburg - 1968                         |                                                   |
+| Johannesburg | 1969      | Johannesburg - Revue mensuelle - août-décembre 1969 |                                                   |
+| Johannesburg | 1969      | Cote de Johannesburg - 1969                         |                                                   |
