@@ -101,3 +101,72 @@ English
 * The New York Stock Exchange. 1975. *Wall Street and the Security Markets*. New York: Arno Press.
 
 ## Holdings (complete)
+| Location | Year | Title (according to book spine)                                    | Detailed Bibliographic Info (according to source)                                                                |
+|----------|------|--------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| New York | 1895 | Commercial & Financial Chronicle - Quotation Supplement 1895       | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1896 | Commercial & Financial Chronicle - Quotation Supplement 1896       | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1897 | Commercial & Financial Chronicle - Quotation Supplement 1897       | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1898 | Commercial & Financial Chronicle - Quotation Supplement 1898       | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1899 | Commercial & Financial Chronicle - Quotation Supplement 1899       | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1900 | Commercial & Financial Chronicle - Quotation Supplement 1900       | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1901 | Commercial & Financial Chronicle - Quotation Supplement 1901       | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1902 | Commercial & Financial Chronicle - Quotation Supplement 1902       | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1903 | Commercial & Financial Chronicle - Quotation Supplement 1903       | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1904 | Commercial & Financial Chronicle - Quotation Supplement 1904       | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1905 | Commercial & Financial Chronicle - Quotation Supplement 1905       | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1906 | Commercial & Financial Chronicle - Quotation Supplement 1906       | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1907 | Commercial & Financial Chronicle - Quotation Supplement 1907       | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1908 | Commercial & Financial Chronicle - Quotation Supplement 1908       | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1909 | Commercial & Financial Chronicle - Quotation Supplement 1909       | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1910 | Commercial & Financial Chronicle - Quotation Supplement 1910       | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1911 | Commercial & Financial Chronicle - Quotation Supplement 1911       | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1912 | Commercial & Financial Chronicle - Quotation Supplement 1912       | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1913 | Commercial & Financial Chronicle - Quotation Supplement 1913       | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1914 | Commercial & Financial Chronicle - Quotation Supplement 1914       | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1915 | Commercial & Financial Chronicle - Quotation Supplement 1915       | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1916 | Commercial & Financial Chronicle - Quotation Supplement 1916       | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1917 | Commercial & Financial Chronicle - Quotation Supplement 1917       | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1918 | Commercial & Financial Chronicle - Quotation Supplement 1918       | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1919 | Commercial & Financial Chronicle - quotation supplement 1919       | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1920 | Commercial & Financial Chronicle - quotation section 1920          | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1921 | Commercial & Financial Chronicle - quotation supplement 1921       | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1922 | Commercial & Financial Chronicle - quotation supplement 1922       | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1923 | Commercial & Financial Chronicle - Quotation Section 1923          | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1924 | Commercial & Financial Chronicle - Quotation Section 1924          | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1925 | Commercial & Financial Chronicle - Quotation Supplement 1925       | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1926 | Commercial & Financial Chronicle - Quotation Supplement 1926       | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1927 | Commercial & Financial Chronicle - Quotation Section 1927          | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1928 | Commercial & Financial Chronicle - Quotation Section 1928          | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1929 | Commercial & Financial Chronicle - Bank and quotation record 1929  | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1930 | The commercial and financial chronicle - quotation supplement 1930 | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1931 | Bank and Quotation 1931                                            |                                                                                                                  |
+| New York | 1932 | Bank and Quotation 1932                                            |                                                                                                                  |
+| New York | 1933 | Bank and Quotation 1933                                            |                                                                                                                  |
+| New York | 1934 | Bank and Quotation 1934                                            |                                                                                                                  |
+| New York | 1935 | Bank and Quotation 1935                                            |                                                                                                                  |
+| New York | 1936 | Bank and Quotation 1936                                            |                                                                                                                  |
+| New York | 1946 | Bank and Quotation record 1946                                     | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1947 | Bank and Quotation record 1947                                     | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1948 | Bank and Quotation record 1948                                     | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1949 | Bank and Quotation 1949                                            | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1950 | Bank and Quotation record 1950                                     | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1951 | Bank and Quotation record 1951                                     | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1952 | Bank and Quotation 1952                                            | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1953 | Bank and Quotation 1953                                            | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1954 | Bank and Quotation 1954                                            | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1955 | Bank and Quotation record 1955                                     | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1956 | Bank and Quotation record 1956                                     | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1957 | Bank and Quotation record 1957                                     | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1958 | Bank and Quotation record 1958                                     | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1959 | Bank and Quotation record 1959                                     | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1960 | Bank and Quotation record 1960                                     | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1961 | Bank and Quotation record 1961                                     | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1962 | Bank and Quotation record 1962                                     | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1963 | Bank and Quotation record 1963                                     | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1964 | Bank and Quotation record 1964                                     | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1965 | Bank and Quotation record 1965                                     | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1966 | Bank and Quotation record 1966                                     | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1967 | Bank and Quotation record 1967                                     | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1968 | Bank and Quotation record 1968                                     | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1969 | Bank and Quotation record 1969                                     | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
+| New York | 1970 | Bank and Quotation record 1970                                     | Bank and Quotation section of the Commercial & Financial Chronicle //by William B. Dana Company//Washington D.C. |
