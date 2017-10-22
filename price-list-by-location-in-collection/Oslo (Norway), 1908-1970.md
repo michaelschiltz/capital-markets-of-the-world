@@ -34,7 +34,8 @@ Norwegian
 * Oslo, ed. 18. *Beretning Om Kristiania Handel*. Kristiania.
 * ———. , ed. 18. *Report on the Trade and Commerce of Kristiania*. Kristiania.
 
-### originals (in the Norwegian Starte Library):
+### originals (in the National Library of Norway or [Nasjonalbiblioteket](https://www.nb.no/)):
+
 * Børskurslister : CD 01 : 1881-1920. 1998a. [Foreløpig versjon]. Oslo børs.
 * Børskurslister : CD 01 : 1881-1920. 1998b. Oslo børs.
 * Børskurslister : CD 02 : 1921-1925. 1998. Oslo børs.
