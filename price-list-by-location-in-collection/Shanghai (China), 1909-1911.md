@@ -29,3 +29,8 @@ English
 * Qiu, Xiaohui. 2010. *Si Mu Jiang Hu*. Di 1 ban. Beijing: Zhong xin chu ban she.
 * Thomas, William Arthur. 2001. *Western Capitalism in China: A History of the Shanghai Stock Exchange*. Aldershot ; Burlington, USA: Ashgate.
 * Zheng, Hongtai, and Siu-lun Wong. 2007. *Xianggang Gu Shi (1841-1997)*. Di 1 ban, [rev. ed.]. Shanghai: Dong fang chu ban zhong xin.
+
+## Holdings (complete)
+| Location | Year      | Title (according to book spine) | Detailed Bibliographic Info (according to source)               |                                 |
+|----------|-----------|---------------------------------|-----------------------------------------------------------------|---------------------------------|
+| Shanghai | 1909-1911 | Cote de Shanghaï - 1909-1911    | J.P. Bisset & Co's Share Report. Supplement to the N.-C. Herald | J.P. Bisset & Co., sharebrokers |
