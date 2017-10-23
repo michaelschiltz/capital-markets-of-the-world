@@ -29,3 +29,8 @@ French.
 * ———. , ed. n.d. *Situation Commerciale; Statistiques, Importations et Exportations, Mouvement Général Maritime et Commercial Dans Les Différents Ports de La Cochinchine*. Saigon.
 * Saigon, Chambre de Commerce. *Situation Commerciale, Statistiques, Importations et Exportations, Mouvement Général Maritime et Commercial Dans Les Différent Ports de La Cochinchine*. n.d.
 * Saigon. Chambre de Commerce. *Bulletin Quotiden*. n.d.
+
+## Holdings (complete)
+| Location | Year      | Title (according to book spine)                          | Detailed Bibliographic Info (according to source)                                                                                                |
+|----------|-----------|----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1899     | 1896-1899 | Bulletin de la Chambre de commerce de Saïgon - 1896-1899 | Bulletin de la Chambre de commerce de Saigon Saigon: Impr. Nouvelle Claude & Cie puis] Impr. du Mékong puis] Impr. Rey puis] Impr. Claude & Cie] |
