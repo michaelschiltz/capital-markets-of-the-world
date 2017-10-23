@@ -23,5 +23,15 @@ Description based on volume 1968.
 Portuguese
 
 ## List of References
-* Bolsa de Valores de São Paulo, ed. 1989. *Uma História centenária =: A centennial history*. [São Paulo? BOVESPA.
+* Bolsa de Valores de São Paulo, ed. 1989. *Uma História centenária =: A centennial history*. [São Paulo] BOVESPA.
 * Brandão, Ignácio de Loyola. 1999. *Bolsa de Valores de São Paulo: 110 Anos*. São Paulo, SP, Brasil: DBA.
+
+## Holdings (complete)
+| Location  | Year      | Title (according to book spine) | Detailed Bibliographic Info (according to source)                    |
+|-----------|-----------|---------------------------------|----------------------------------------------------------------------|
+| Sao Paulo | 1964-1965 | Cote de Sao Paulo 1964-1965     |                                                                      |
+| Sao Paulo | 1966      | Cote de Sao Paulo 1966          |                                                                      |
+| Sao Paulo | 1967      | Cote de Sao Paulo 1967          |                                                                      |
+| Sao Paulo | 1968      | Cote de Sao-Paulo - 1968        | Revista da Bôlsa de valores de São Paulo. Boletin mensal estatístico |
+| Sao Paulo | 1969      | Cote de Sao-Paulo - 1969        |                                                                      |
+| Sao Paulo | 1970      | Cote de Sao-Paulo - 1970        |                                                                      |
