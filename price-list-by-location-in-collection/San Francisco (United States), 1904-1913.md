@@ -23,3 +23,10 @@ Description based on the volumes: 1904-1907; 1910-1913.
 English
 
 ## List of References
+
+## Holdings
+| Location      | Year      | Title (according to book spine)   | Detailed Bibliographic Info (according to source)       |
+|---------------|-----------|-----------------------------------|---------------------------------------------------------|
+| San Francisco | 1904-1907 | Cote de San Francisco - 1904-1907 | Official Monthly Report of the Stock and Bond Exchange  |
+| San Francisco | 1908-1909 | Cote de San Francisco - 1908-1909 |                                                         |
+| San Francisco | 1910-1913 | Cote de San Francisco - 1910-1913 | The Stock and Bond Exchange Official Report             |
