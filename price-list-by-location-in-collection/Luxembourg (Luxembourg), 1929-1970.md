@@ -25,6 +25,9 @@ French
 ## List of References
 
 ## Holdings (complete)
+
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
+
 | Location   | Year | Title (according to book spine)             | Detailed Bibliographic Info (according to source)                                                                                                                                                                                                        |
 |------------|------|---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Luxembourg | 1929 | Cote de Luxembourg - mai-décembre 1929      | Cote officielle de la Bourse du Luxembourg: publiée conformément à l'art.39 du Règlement d'ordre intérieur par la Société de la Bourse, société anonyme, 11 rue de la Porte-Neuve//Luxembourg: Imprimerie de la Cour Victor Buck.                        |
