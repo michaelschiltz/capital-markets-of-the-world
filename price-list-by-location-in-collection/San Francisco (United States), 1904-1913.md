@@ -25,6 +25,9 @@ English
 ## List of References
 
 ## Holdings
+
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
+
 | Location      | Year      | Title (according to book spine)   | Detailed Bibliographic Info (according to source)       |
 |---------------|-----------|-----------------------------------|---------------------------------------------------------|
 | San Francisco | 1904-1907 | Cote de San Francisco - 1904-1907 | Official Monthly Report of the Stock and Bond Exchange  |
