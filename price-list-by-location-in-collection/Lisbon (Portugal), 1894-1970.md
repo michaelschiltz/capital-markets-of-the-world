@@ -32,6 +32,9 @@ Portuguese.
 * Portugal, ed. 1974. *O Novo Regulamento Da Bolsa E Legislação Complementar: Commentário*. Actualidade Portuguesa. Lisboa: Moraes Editores.
 
 ## Holdings (complete)
+
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
+
 | Location | Year      | Title (according to book spine)            | Detailed Bibliographic Info (according to source)                                                                                                        |                         |                        |
 |----------|-----------|--------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|------------------------|
 | Lisbon   | 1894-1898 | Cours de la Bourse de Lisbonne - 1894-1898 | Cotações da Bolsa de Lisboa                                                                                                                              | Crédit Franco-portugais | Typ. M. A. Branco & Co |
