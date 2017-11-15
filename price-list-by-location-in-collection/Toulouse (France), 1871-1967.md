@@ -27,6 +27,9 @@ French.
 ## List of References
 
 ## Holdings (complete)
+
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
+
 | Location | Year      | Title (according to book spine)                               | Detailed Bibliographic Info (according to source)                                                                                                                                                                                                                                                                                  |
 |----------|-----------|---------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Toulouse | 1871-1872 | Bourse de Toulouse - 1871-1872                                | Bourse de Toulouse : Cours officiels/Compagnie des agents de change/Toulouse : Impr. Rives et Privat, rue Tripière 9.                                                                                                                                                                                                              |
