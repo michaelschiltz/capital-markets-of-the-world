@@ -35,6 +35,9 @@ French.
 * Swiss Bank Corporation. [from old catalog], ed. n.d. *Manuel Des Valeurs Cotées À La Bourse de Genève et Des Changes*. Genève.
 
 ## Holdings (complete)
+
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
+
 | Location | Year      | Title (according to book spine)                   | Detailed Bibliographic Info (according to source)                                                                                                                                                                        |
 |----------|-----------|---------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Geneva   | 1871-1872 | Cours de la Bourse de Genève- 1871-1872           | Société des Agents de change/Bourse de Genève : Société des Agents de change/Genève: Ramboz et Schuchardt, Impr-éd.                                                                                                      |
