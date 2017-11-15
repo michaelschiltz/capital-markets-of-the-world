@@ -27,6 +27,8 @@ French.
 
 ## Holdings (detailed)
 
+> * note: previously non-located (and mostly unbound) volumes are indicated *in italics*.
+
 | Location | Year      | Title (according to book spine)             | Detailed Bibliographic info (according to source)                                                                                                                       |
 |----------|-----------|---------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Algiers  | 1946-1947 | Cote d'Alger - octobre-décembre 1946 - 1947 | Commission de cotation de valeurs mobilières - Bulletin du date] - Secrétariat : boulevard Baudin, Alger                                                                |
