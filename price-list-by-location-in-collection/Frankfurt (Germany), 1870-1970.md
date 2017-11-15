@@ -30,6 +30,9 @@ German.
 * Pohl, Manfred. 1976. *Einführung in Die Deutsche Bankengeschichte: D. Entwicklung D. Gesamten Dt. Kreditwesens*. Taschenbücher Für Geld, Bank Und Börse ; Bd. 79. Frankfurt am Main: Knapp.
 
 ## Holdings (detailed)
+
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
+
 | Location  | Year      | Title (according to book spine)                        | Detailed Bibliographic Info (according to source)                                                                                                 |
 |-----------|-----------|--------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
 | Frankfurt | 1871-1872 | Cours de la Bourse de Francfort - 1871-72              | Oeffentliches Börsen. Coursblatt des Wechselmakler / Syndicats zu Frankfurt A.M. Frankfurt: August Osterrieth]                                    |
