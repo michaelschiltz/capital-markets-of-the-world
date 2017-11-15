@@ -27,6 +27,9 @@ Portuguese
 * Brandão, Ignácio de Loyola. 1999. *Bolsa de Valores de São Paulo: 110 Anos*. São Paulo, SP, Brasil: DBA.
 
 ## Holdings (complete)
+
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
+
 | Location  | Year      | Title (according to book spine) | Detailed Bibliographic Info (according to source)                    |
 |-----------|-----------|---------------------------------|----------------------------------------------------------------------|
 | Sao Paulo | 1964-1965 | Cote de Sao Paulo 1964-1965     |                                                                      |
