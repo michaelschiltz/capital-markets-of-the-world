@@ -34,6 +34,8 @@ French.
 
 ## Holdings (detailed)
 
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
+
 | Location | Year      | Title (according to book spine) | Detailed Bibliographic Info (according to source)                                                                              |
 |----------|-----------|---------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
 | Cairo    | 1907-1908 | Le Caire - 1907-1908            | Bourse des valeurs du Caire. Bourse Khédiviale du Caire. Association des courtiers en marchandises. (le Secrétaire : D. Lenos) |
