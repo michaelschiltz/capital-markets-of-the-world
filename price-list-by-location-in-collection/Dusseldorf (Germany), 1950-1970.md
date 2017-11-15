@@ -54,6 +54,8 @@ German.
 
 ## Holdings
 
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
+
 | Location   | Year | Title (according to book spine)                   | Detailed Bibliographic Info (according to source) |
 |------------|------|---------------------------------------------------|---------------------------------------------------|
 | Dusseldorf | 1950 | Cote officielle de Düsseldorf - 1950              |                                                   |
