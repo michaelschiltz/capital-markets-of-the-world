@@ -34,6 +34,9 @@ Italian
 * Baia Curioni, Stefano. 1995. *Regolazione E Competizione: Storia Del Mercato Azionario in Italia (1808-1938)*. Pubblicazioni Della Fondazione ASSI. Bologna: Il mulino.
 
 ## Holdings (complete)
+
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
+
 | Location | Year      | Title (according to book spine)                            | Detailed Bibliographic Info (according to source)                                                                                                                                                                                                                                                                                 |
 |----------|-----------|------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Milan    | 1871-1872 | Cote de la Bourse de Milan - 1871-1872                     | Bolletino ufficiale della Borsa di Milano/Pas mention intell. ni d'éditeur                                                                                                                                                                                                                                                        |
