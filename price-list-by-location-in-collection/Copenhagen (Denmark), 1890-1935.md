@@ -41,6 +41,8 @@ Danish.
 
 ## Holdings (detailed)
 
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
+
 | Location   | Year      | Title (according to book spine)               | Detailed Bibliographic Info (according to source)                                                                                                                                                                                                                                                                                                 |
 |------------|-----------|-----------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Copenhagen | 1890-1902 | Cote de Copenhaguen - 1890-1902               | 1890-1894: feuillets pré-imprimés remplis à la main = Den Danske Landmandsbank Hypothek og Vekselbank/Kjöbenhavn: Börskurs/sl, sn].A partir du 20 fevrier 1894, tout est imprimé = Kjøbenhavns Handelsbank (date): Børscours/sl, sn].Entre 1895 et 1897, alternance des 2 docs (mssr et imprimés].A partir de janvier 1898, on reste à l'imprimé. |
