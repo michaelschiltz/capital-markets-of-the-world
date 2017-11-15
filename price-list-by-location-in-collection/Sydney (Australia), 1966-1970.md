@@ -17,6 +17,9 @@
 ## List of References
 
 ## Holdings (complete)
+
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
+
 | Location | Year | Title (according to book spine) | Detailed Bibliographic Info (according to source) |
 |----------|------|---------------------------------|---------------------------------------------------|
 | Sydney   | 1966 | Cote mensuelle de Sydney - 1966 |                                                   |
