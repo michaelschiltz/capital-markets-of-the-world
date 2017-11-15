@@ -63,6 +63,9 @@ Norwegian
 * Oslo børs. n.d. Informasjon : med oversikt over verdipapirer og valutamarkedet i ... Børsen.
 
 ### Holdings (complete)
+
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
+
 | Location | Year      | Title (according to book spine)      | Detailed Bibliographic Info (according to source)                  |                                                 |
 |----------|-----------|--------------------------------------|--------------------------------------------------------------------|-------------------------------------------------|
 | Oslo     | 1908-1910 | Kursbladett - 1908-1910              | Kursbladet Mægleres fællesnotering                                 | Trykt hos W.C. Fabritius & Sonner A/S           |
