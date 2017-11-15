@@ -28,6 +28,9 @@ Spanish
 * Moreno Castaño, Begoña. 2006. *La Bolsa de Madrid: Historia de Un Mercado de Valores Europeo*. Santander: Universidad de Cantabria.
 
 ## Holdings (complete)
+
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
+
 | Location | Year      | Title (according to book spine)            | Detailed Bibliographic Info (according to source)                                                            |                               |                            |
 |----------|-----------|--------------------------------------------|--------------------------------------------------------------------------------------------------------------|-------------------------------|----------------------------|
 | Madrid   | 1871-1873 | Cote de Madrid - 1871-1872-1873            | Bolsa de Madrid: Cotización Oficial del Colegio de Agentes de Cambios/Año XIX (1872)/sl, sn].                |                               |                            |
