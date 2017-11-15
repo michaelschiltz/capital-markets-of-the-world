@@ -31,6 +31,8 @@ French, Arabic.
 
 ## Holdings (detailed)
 
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
+
 | Location | Year | Title (according to book spine)   | Detailed Bibliographic Info (according to source) |
 |----------|------|-----------------------------------|---------------------------------------------------|
 | Belgrad  | 1921 | Cote officielle de Belgrade -1921 |                                                   |
