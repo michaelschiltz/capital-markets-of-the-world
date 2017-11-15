@@ -33,7 +33,7 @@ French, German.
 
 ## Holdings (detailed)
 
-> * note: previously non-located (and mostly unbound) volumes are indicated *in italics*.
+> * note: previously non-located/non-identieifed (and mostly unbound) volumes are indicated *in italics*.
 
 | Location | Year      | Title (according to book spine)                 | Detailed Bibliographic Info (according to source)                                                                                                                           |
 |----------|-----------|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
