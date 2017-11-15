@@ -34,6 +34,8 @@ French.
 
 ## Holdings (detailed)
 
+> * note: previously non-located (and mostly unbound) volumes are indicated *in italics*.
+
 | Location | Year           | Title (according to book spine)                      | Detailed Bibliographic info (according to source)                                                                                                                                                   |
 |----------|----------------|------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Antwerp  | 1873-1874      | Bourse d'Anvers - 1873-1874                          | Cote de la Bourse d'Anvers du (… date). Seule officielle. Anvers: Impr. J. Depré]                                                                                                                   |
