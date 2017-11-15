@@ -37,6 +37,8 @@ Hungarian, German.
 
 ## Holdings (detailed)
 
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
+
 | Location | Year | Title (according to book spine) | Detailed Bibliographic Info (according to source)           | Publisher                                                                   |
 |----------|------|---------------------------------|-------------------------------------------------------------|-----------------------------------------------------------------------------|
 | Budapest | 1897 | Cote de Budapesth - 1897        | Amtliches Cursblatt der Budapester Waaren und Effectenbörse | Pesti Lloyd-Tarsulat Könyvnyomdaja (Felelös Vezetö : Müller Agoston)        |
