@@ -19,6 +19,9 @@
 * Tupov, B. S. 1993. *Istorii︠a︡ Birzhi v Rossii: Nauchno-Analiticheskiĭ Obzor*. Serii︠a︡ Istorii︠a︡ Rossii. Moskva: Rossiĭskai︠a︡ akademii︠a︡ nauk, In-t nauch. informat︠s︡ii po obshchestvennym naukam.
 
 ## Holdings (complete)
+
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
+
 | Location         | Year           | Title (according to book spine)              | Detailed Bibliographic Info (according to source) |
 |------------------|----------------|----------------------------------------------|---------------------------------------------------|
 | Saint Petersburg | 1871-1873      | Bourse de Saint-Pétersbourg - 1871-1872-1873 |                                                   |
