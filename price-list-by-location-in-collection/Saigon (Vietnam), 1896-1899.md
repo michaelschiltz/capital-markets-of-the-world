@@ -31,6 +31,9 @@ French.
 * Saigon. Chambre de Commerce. *Bulletin Quotiden*. n.d.
 
 ## Holdings (complete)
+
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
+
 | Location | Year      | Title (according to book spine)                          | Detailed Bibliographic Info (according to source)                                                                                                |
 |----------|-----------|----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1899     | 1896-1899 | Bulletin de la Chambre de commerce de Saïgon - 1896-1899 | Bulletin de la Chambre de commerce de Saigon Saigon: Impr. Nouvelle Claude & Cie puis] Impr. du Mékong puis] Impr. Rey puis] Impr. Claude & Cie] |
