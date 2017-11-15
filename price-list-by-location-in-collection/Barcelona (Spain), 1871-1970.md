@@ -36,6 +36,8 @@ Spanish.
 
 ## Holdings (detailed)
 
+> * note: previously non-located (and mostly unbound) volumes are indicated *in italics*.
+
 | Location   | Year      | Title (according to book spine)                                            | Detailed Bibliographic Info (according to source)                                                                                                                                                                                                      |
 |------------|-----------|----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Barcelona  | 1871-1872 | Cours de la Bourse de Barcelone - décembre 1871 à octobre 1872 - incomplet | Cambios Corrientes - dados por la junta sindical del colegio de corredores reales de commercio de la plaza de Barcelona                                                                                                                                |
