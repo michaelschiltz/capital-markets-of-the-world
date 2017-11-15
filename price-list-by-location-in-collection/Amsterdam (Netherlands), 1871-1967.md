@@ -73,6 +73,8 @@ French, Dutch.
 
 ## Holdings (detailed)
 
+> * note: previously non-located (and mostly unbound) volumes are indicated *in italics*.
+
 | Location  | Year      | Title (according to book spine)                                           | Detailed bibliographic info (according to source)                                                                                                                                                                                                          |
 |-----------|-----------|---------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Amsterdam | 1871-1873 | Cours de la Bourse Amsterdam - october 1871-juin 1873                     | Cours officiel de la Bourse. Amsterdam: s.n.]                                                                                                                                                                                                              |
