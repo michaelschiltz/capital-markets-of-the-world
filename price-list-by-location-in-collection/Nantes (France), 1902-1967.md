@@ -26,6 +26,9 @@ French
 ## List of References
 
 ## Holdings (complete)
+
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
+
 | Location | Year      | Title (according to book spine)                     | Detailed Bibliographic Info (according to source)                                                                                                                                                                                         |
 |----------|-----------|-----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Nantes   | 1902-1905 | Cours de la Bourse de Nantes - 1902-1905            | Cours authentique et officiel/Compagnie des agents de change de Nantes/Nantes] : s.n.]                                                                                                                                                    |
