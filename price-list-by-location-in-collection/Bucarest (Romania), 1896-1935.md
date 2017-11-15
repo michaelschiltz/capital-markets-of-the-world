@@ -28,6 +28,8 @@ Romanian, French.
 
 ## Holdings (detailed)
 
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
+
 | Location | Year      | Title (according to book spine)            | Detailed Bibliographic Info (according to source)                                                                                                                                                                                                                                                                                                                                                                                                                              |
 |----------|-----------|--------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Bucarest | 1896-1899 | Bourse de Bucarest - 1896 à 1899           | Bursa din Bucaresti: Serviciul "Curierului Financiar". Apare in toate zilele de lucru/Abonamentele se fac la Redactia "Curierului Financiar", Pasagiul Român, Bucuresti/sl, sn].                                                                                                                                                                                                                                                                                               |
