@@ -26,6 +26,8 @@ German.
 
 ## Holdings (detailed)
 
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
+
 | Location | Year | Title (according to book spine)                  | Detailed Bibliographic Info (according to source)                            |
 |----------|------|--------------------------------------------------|------------------------------------------------------------------------------|
 | Bern     | 1929 | Cote de Berne - 1929                             |                                                                              |
