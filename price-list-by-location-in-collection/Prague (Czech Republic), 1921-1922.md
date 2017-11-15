@@ -18,6 +18,8 @@
 
 ## Holdings (complete)
 
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
+
 | Location | Year | Title (according to book spine) | Detailed Bibliographic Info (according to source) |
 |----------|------|---------------------------------|---------------------------------------------------|
 | Prague   | 1921 | Cote de Prague - 1921           |                                                   |
