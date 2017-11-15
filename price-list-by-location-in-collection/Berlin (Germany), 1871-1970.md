@@ -37,6 +37,8 @@ German.
 
 ## Holdings (detailed)
 
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
+
 | Location | Year      | Title (according to book spine)            | Detailed Bibliographic Info (according to source)                       |
 |----------|-----------|--------------------------------------------|-------------------------------------------------------------------------|
 | Berlin   | 1871-1872 | Cote de Berlin - 1871-1872                 |                                                                         |
