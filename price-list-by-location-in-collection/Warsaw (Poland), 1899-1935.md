@@ -25,6 +25,9 @@ Polish, French.
 ## List of References
 
 ## Holdings (complete)
+
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
+
 | Location | Year      | Title (according to book spine)           | Detailed Bibliographic Info (according to source)                |
 |----------|-----------|-------------------------------------------|------------------------------------------------------------------|
 | Warsaw   | 1899      | Cote de la Bourse de Varsovie - 1899      |                                                                  |
