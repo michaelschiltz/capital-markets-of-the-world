@@ -29,6 +29,9 @@ Italian
 ## List of References
 
 ## Holdings (complete)
+
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
+
 | Location | Year      | Title (according to book spine)          | Detailed Bibliographic Info (according to source)                                                                                                                                                                                  |
 |----------|-----------|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Roma     | 1874-1877 | Cours de la Bourse de Rome - 1874-1877   | Estratto del listino officiale della Borsa di Commercio di Roma (Roma, Tip. Olivieri, via de Crociferi)                                                                                                                            |
