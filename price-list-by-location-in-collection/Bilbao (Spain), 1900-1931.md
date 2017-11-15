@@ -32,6 +32,8 @@ Spanish.
 
 ## Holdings (detailed)
 
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
+
 | Location | Year | Title (according to book spine)                                        | Detailed Bibliographic Info (according to source)                                                                                                                                                                               |
 |----------|------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Bilbao   | 1900 | Bolsa de comercio de Bilbao 1900                                       | Boletín de cotización oficial de la Bolsa de Comercio de Bilbao / Colegio]/Bilbao: Imp. de A. Apellãniz                                                                                                                         |
