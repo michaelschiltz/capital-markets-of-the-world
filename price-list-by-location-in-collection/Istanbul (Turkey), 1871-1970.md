@@ -37,6 +37,9 @@ Turkish, French.
 * Serçe, Erkan. 2013. *The History of the İzmir Commodity Exchange from 1891 to the Present: From Tradition to Future*. İzmir: İzmir Ticaret Borsası.
 
 ## Holdings (complete)
+
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
+
 | Location | Year      | Title (according to book spine)                             | Detailed Bibliographic Info (according to source)                                                                                                                                                                                                                                                                         |
 |----------|-----------|-------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Istanbul | 1871-1879 | Bourse de Galata - du 1er décembre 1871 au 31 décembre 1879 | • 1871: feuillets entièrement mssr: "Cours des Valeurs publiques"• From 1872: feuillets pré-imprimés remplis mssr: "Cours des Fonds & Valeurs diverses au comptant, Constantinople"/auteur: Paul Lachèze• From janv.1875: feuillets pré-imprimés remplis mssr. "Bourse de Galata: Cours des principales valeurs"/sl, sn]  |
