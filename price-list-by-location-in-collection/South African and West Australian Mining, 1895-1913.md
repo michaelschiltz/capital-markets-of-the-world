@@ -18,6 +18,9 @@
 * Adamson, Graeme. 1989. *Miners and Millionaires: The First One Hundred Years of the People, Markets, and Companies of the Stock Exchange in Perth, 1889-1989*. Perth, W.A: Australian Stock Exchange (Perth).
 
 ## Holdings (complete)
+
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
+
 | Location     | Year | Title (according to book spine)                     | Detailed Bibliographic Info (according to source)   |
 |--------------|------|-----------------------------------------------------|-----------------------------------------------------|
 | South Africa | 1895 | South African and West Australian Mining - 1895     | South African Market Share List                     |
