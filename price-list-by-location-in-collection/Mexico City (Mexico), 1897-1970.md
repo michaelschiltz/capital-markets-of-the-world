@@ -61,6 +61,9 @@ Spanish
 * Riveroll González, Ernesto, and Bolsa Mexicana de Valores, eds. 1994. *Cien Años de La Bolsa de Valores En México, 1894-1994*. 1. ed. México, D.F: La Bolsa.
 
 ## Holdings (complete)
+
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
+
 | Location | Year | Title (according to book spine)                                       | Detailed Bibliographic Info (according to source)                                                                                                                                      |
 |----------|------|-----------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Mexico   | 1897 | Cote de la Bourse de Mexico - 1897                                    | Boletín de la Bolsa Mercantil de Mexico/Año 16/sl, sn]/Despacho y oficinas: Banco Internacional e Hipotecario. Esquina calle de Caena y Colegio de Niñas n°11.                         |
