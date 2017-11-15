@@ -73,7 +73,7 @@ French, Dutch.
 
 ## Holdings (detailed)
 
-> * note: previously non-located (and mostly unbound) volumes are indicated *in italics*.
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
 
 | Location  | Year      | Title (according to book spine)                                           | Detailed bibliographic info (according to source)                                                                                                                                                                                                          |
 |-----------|-----------|---------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
