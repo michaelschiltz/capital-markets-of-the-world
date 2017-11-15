@@ -34,6 +34,9 @@ German.
 * Lindenlaub, Dieter, Carsten Burhop, and Joachim Scholtyseck, eds. 2013. *Schlüsselereignisse Der Deutschen Bankengeschichte*. Stuttgart: Steiner.
 
 ## Holdings (complete)
+
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
+
 | Location | Year      | Title (according to book spine)                                 | Detailed Bibliographic Info (according to source)                                                                                                                                                                                                                                |
 |----------|-----------|-----------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Hamburg  | 1871-1873 | Bourse de Hambourg - 1871-1872-1873                             | Cours-Bericht / Herausgegeben auf Veranlassung des Syndicats der Effecten-Börse Hamburg: s.n.]                                                                                                                                                                                   |
