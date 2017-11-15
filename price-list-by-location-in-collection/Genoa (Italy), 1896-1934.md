@@ -30,6 +30,9 @@ Italian.
 * Jaffe, Mario. 1956. *La Borsa Merci Di Genova Nel Suo Primo Centenario 1855-1955*. Genova: Camera di commercio, industria e agricultura.
 
 ## Holdings (complete)
+
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
+
 | Location | Year      | Title (according to book spine)         | Detailed Bibliographic Info (according to source)                                                                                                                                                                                                  |
 |----------|-----------|-----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Genoa    | 1896-1897 | Cours de la Bourse de Gênes - 1896-1897 | Banca Commerciale Italiana. Sede di Genova S.A.(…). Corsi di Chiusura della Borsa del (date)From 1897: Conto corrente colla Posta. Camera di Comercio ed arti di Genova//Corso legale accertato dal sindacato degli agenti di cambio//s.l.]; s.n.] |
