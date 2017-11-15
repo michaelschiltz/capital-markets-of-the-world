@@ -60,6 +60,8 @@ Spanish.
 
 ## Holdings (detailed)
 
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
+
 | Location     | Year      | Title (according to book spine)                             | Detailed Bibliographic Info (according to source)                                                                                                                                                         |
 |--------------|-----------|-------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Buenos Aires | 1895-1899 | Cours de la Bourse de Buenos Aires - 1895 à 1899            | Bolsa de comercio de Buenos Aires. Boletín quincenal de precios corrientes (gerente: Rafael Pons)                                                                                                         |
