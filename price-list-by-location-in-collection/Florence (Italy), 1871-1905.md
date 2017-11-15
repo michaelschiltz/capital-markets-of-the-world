@@ -26,6 +26,8 @@ Italian.
 
 ## Holdings (complete)
 
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
+
 | Florence | 1874-1876 | Cours de la Bourse de Florence - 1874-1876 |                                                                                                                                                |
 |----------|-----------|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
 | Florence | 1877-1879 | Cours de la Bourse de Florence - 1877-1879 |                                                                                                                                                |
