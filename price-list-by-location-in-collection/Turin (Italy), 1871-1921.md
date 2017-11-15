@@ -26,6 +26,9 @@ Italian.
 ## List of References
 
 ## Holdings (complete)
+
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
+
 | Location | Year      | Title (according to book spine)           | Detailed Bibliographic Info (according to source)                                                                                                                                      |
 |----------|-----------|-------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Turin    | 1871      | Cote de Turin                             | Borsa di Commercio - Bolettino Ufficiale dei Corsi Accertati dagli Agenti di Cambio e dai Sensali / Camera di Commercio ed Arti di Torino / impr. Torino Typografia Carlo Favale e Co. |
