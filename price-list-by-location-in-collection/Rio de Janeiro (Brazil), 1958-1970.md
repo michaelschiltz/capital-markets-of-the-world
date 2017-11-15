@@ -29,6 +29,9 @@ Portuguese
 * *Bolsa do Rio, 140 anos*. 1985. Rio de Janeiro: Bloch Editores.
 
 ## Holdings (complete)
+
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
+
 | Location       | Year      | Title (according to book spine)                                     | Detailed Bibliographic Info (according to source)                                                                                                                                 |
 |----------------|-----------|---------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Rio de Janeiro | 1958-1959 | Rio de Janeiro - 1958-1959                                          | A Bôlsa - Revista mensal publicada pela Bôlsa de valores do Rio de Janeiro                                                                                                        |
