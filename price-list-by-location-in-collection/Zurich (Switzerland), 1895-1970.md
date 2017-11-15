@@ -27,6 +27,9 @@ German.
 Meier, Richard T., and Tobias Sigrist. 2006. *Der Helvetische Big Bang: Die Geschichte Der SWX Swiss Exchange*. NZZ Libro. Zürich: Neue Zürcher Zeitung.
 
 ## Holdings (complete)
+
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
+
 | Location | Year      | Title (according to book spine)                   | Detailed Bibliographic Info (according to source)                                                               |                                      |                                      |
 |----------|-----------|---------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|--------------------------------------|--------------------------------------|
 | Zurich   | 1895-1899 | Bank in Zürich - 1895-99                          | Notierungen der Zürcher Effektenbörse / Bank in Zürich Zurich: s.n.]                                            |                                      |                                      |
