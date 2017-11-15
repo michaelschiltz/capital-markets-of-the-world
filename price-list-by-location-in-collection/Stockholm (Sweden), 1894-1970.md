@@ -85,6 +85,9 @@ Swedish
 * Stockholm (Sweden), ed. 1963. *Stockholms Fondbörs 100 år*. Stockholm: Nordiska bokhandeln.
 
 ## Holdings (complete)
+
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
+
 | Location  | Year      | Title (according to book spine)                          | Detailed Bibliographic Info (according to source)                    |                                            |
 |-----------|-----------|----------------------------------------------------------|----------------------------------------------------------------------|--------------------------------------------|
 | Stockholm | 1894-1901 | Cote de Stockholm - 1894-1901                            |                                                                      |                                            |
