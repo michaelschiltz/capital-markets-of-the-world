@@ -29,6 +29,8 @@ French.
 
 ## Holdings (detailed)
 
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
+
 | Location   | Year      | Title (according to book spine)                 | Detailed Bibliographic Info (according to source)                                                                                            |
 |------------|-----------|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
 | Casablanca | 1930-1933 | Bourse de Casablanca 1930-1933                  | Bulletin de l'Office de compensation des valeurs marocaines/mobilières marocaines à Casablanca                                               |
