@@ -22,6 +22,8 @@
 
 ## Holdings (complete)
 
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
+
 | Location | Year | Title (according to book spine) | Detailed Bibliographic Info (according to source) |
 |----------|------|---------------------------------|---------------------------------------------------|
 | Moscou   | 1901 | Cote de Moscou - 1901           |                                                   |
