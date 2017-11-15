@@ -40,6 +40,8 @@ French.
 
 ## Holdings (detailed)
 
+> * note: previously non-located (and mostly unbound) volumes are indicated *in italics*.
+
 | Location    | Year      | Title (according to book spine)                      | Detailed Bibliographic info (according to source)                                                                                                                                                                                                                                                                                                                   |
 |-------------|-----------|------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Alexandria  | 1894-1896 | Crédit Lyonnais - Alexandrie - 1894-1896             | Crédit Lyonnais - Agence d'Alexandrie - 2 rue Tewfick feuilles pré-imprimées, remplies à la main]                                                                                                                                                                                                                                                |
