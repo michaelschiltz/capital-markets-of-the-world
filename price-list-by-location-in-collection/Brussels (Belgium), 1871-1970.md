@@ -139,6 +139,8 @@ French.
 
 ## Holdings (detailed)
 
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
+
 | Location | Year      | Title (according to book spine)                             | Detailed Bibliographic Info (according to source)                                                                                                                                                                                   |
 |----------|-----------|-------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Brussels | 1871-1873 | Cours de la Bourse de Bruxelles - 1871]-73                  |                                                                                                                                                                                                                                     |
