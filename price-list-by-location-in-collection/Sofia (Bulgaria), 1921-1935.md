@@ -18,6 +18,9 @@
 * Simov, Vasil. 1992. *Vŭzrazhdane Na Stokovite Borsi v Bŭlgarii︠a︡: Sofiĭska Stokova Borsa, Ustroĭstvo I Deĭnost*. 1. izd. Poredit︠s︡a Borsova Biblioteka 3. Sofii︠a︡: Informa.
 
 ## Holdings (complete)
+
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
+
 | Location | Year           | Title (according to book spine)       | Detailed Bibliographic Info (according to source) |
 |----------|----------------|---------------------------------------|---------------------------------------------------|
 | Sofia    | 1921           | Cote de Sofia - 1921                  |                                                   |
