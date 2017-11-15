@@ -27,6 +27,9 @@ French.
 ## List of References
 
 ## Holdings (complete)
+
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
+
 | Location | Year | Title (according to book spine) | Detailed Bibliographic Info (according to source)                                                                                                                                                                                                                                                        |
 |----------|------|---------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Tunis    | 1947 | Cote de Tunis - 1947            | Crédit Lyonnais - Agence de Tunis au Siège central - Bulletin de l'Office tunisien de cotation des valeurs mobilières                                                                                                                                                                                    |
