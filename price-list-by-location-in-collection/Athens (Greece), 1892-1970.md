@@ -33,6 +33,8 @@ Greek, French, English.
 
 ## Holdings (detailed)
 
+> * note: previously non-located (and mostly unbound) volumes are indicated *in italics*.
+
 | Location | Year      | Title (according to book spine)           | Detailed Bibliographic Info (according to source)                                                                                                                                                                                              |
 |----------|-----------|-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Athens   | 1892-1894 | Cote d'Athènes 1892-93-94                 | ΧΡΗΜΑΤΙΣΤΉΡΙΟ ΑΘΗΝΏΝ: ΔΕΛΤΙΟΝ ΤΗΣ date]//sl, sn]// feuillets pré-imprimés, remplis mssr.                                                                                                                                                       |
