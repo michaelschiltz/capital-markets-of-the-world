@@ -29,6 +29,9 @@ English
 *The New York Stock Exchange*. 1975. Wall Street and the Security Markets. New York: Arno Press.
 
 ## Holdings (complete)
+
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
+
 | Location  | Year      | Title (according to book spine)                          | Detailed Bibliographic Info (according to source)                                                                                                                                         | Location                               |
 |-----------|-----------|----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|
 | New York  | 1894-1896 | Cours de la Bourse de New York 1894-1896                 |                                                                                                                                                                                           |                                        |
