@@ -25,6 +25,9 @@ French.
 ## List of References
 
 ## Holdings (complete)
+
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
+
 | Location | Year | Title (according to book spine)                  | Detailed Bibliographic Info (according to source) |                                    |                                          |
 |----------|------|--------------------------------------------------|---------------------------------------------------|------------------------------------|------------------------------------------|
 | Lausanne | 1963 | Bourse de Lausanne -29 novembre-31 décembre 1963 | Cote de la Bourse de Lausanne                     | publiée par le Comité de la Bourse | Imprimerie Louis Couchoud S.A., Lausanne |
