@@ -38,6 +38,9 @@ Cote de Toronto – Actions – Revue mensuelle, 1957-1970
 ## List of References
 
 ## Holdings (complete)
+
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
+
 | Location | Year      | Title (according to book spine)                    | Detailed Bibliographic Info (according to source)                                      |
 |----------|-----------|----------------------------------------------------|----------------------------------------------------------------------------------------|
 | Toronto  | 1949-1950 | Cote de Toronto - janvier 1949- mai 1950           |                                                                                        |
