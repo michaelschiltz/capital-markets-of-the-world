@@ -31,6 +31,9 @@ English
 * Zheng, Hongtai, and Siu-lun Wong. 2007. *Xianggang Gu Shi (1841-1997)*. Di 1 ban, [rev. ed.]. Shanghai: Dong fang chu ban zhong xin.
 
 ## Holdings (complete)
+
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
+
 | Location | Year      | Title (according to book spine) | Detailed Bibliographic Info (according to source)               |                                 |
 |----------|-----------|---------------------------------|-----------------------------------------------------------------|---------------------------------|
 | Shanghai | 1909-1911 | Cote de Shanghaï - 1909-1911    | J.P. Bisset & Co's Share Report. Supplement to the N.-C. Herald | J.P. Bisset & Co., sharebrokers |
