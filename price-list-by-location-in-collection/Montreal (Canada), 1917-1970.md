@@ -52,6 +52,9 @@ English
 ## List of References
 
 ## Holdings (complete)
+
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
+
 | Location  | Year      | Title (according to book spine)                 | Detailed Bibliographic Info (according to source)                                                                                                                                                                                                                                                                   |
 |-----------|-----------|-------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Montreal  | 1917-1924 | Cote de Montréal - 1917 à 1924                  | hebdomadaire]//Comparative review of transactions on the Montreal Stock Exchange//sn//sl, sn]//blue or yellow sheets. Tout idem de 1917 à 1924.                                                                                                                                                                     |
