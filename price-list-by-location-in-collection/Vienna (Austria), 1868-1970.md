@@ -25,6 +25,9 @@ German.
 ## List of References
 
 ## Holdings (complete)
+
+> * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
+
 | Location | Year      | Title (according to book spine)                           | Detailed Bibliographic Info (according to source)                                                                                         |
 |----------|-----------|-----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
 | Vienna   | 1868      | Bourse de Vienne - 1868                                   |                                                                                                                                           |
