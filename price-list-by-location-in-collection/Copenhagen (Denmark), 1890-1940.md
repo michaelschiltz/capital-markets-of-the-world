@@ -58,9 +58,11 @@ Danish.
 | Copenhagen | 1927      | Cote de Copenhaguen - 1927                    |                                                                                                                                                                                                                                                                                                                                                   |
 | Copenhagen | 1928      | Côte de Copenhaguen - 1928                    |                                                                                                                                                                                                                                                                                                                                                   |
 | Copenhagen | 1929      | Côte de Copenhaguen - janvier à novembre 1929 | Kjøbenhavns Handelsbank. Officielle Kurser paa Kjøbenhavns Børs (Uden Ansvar)/sl, sn].                                                                                                                                                                                                                                                            |
+| *Copenhagen* | *1930-1934*      | *Côte de Copenhaguen - 1930-1934* | *Kjøbenhavns Handelsbank. Officielle Kurser paa Kjøbenhavns Børs (Uden Ansvar)/sl, sn].*                                                                                                                                                                                                                                                            |
+| *Copenhagen* | *1935-1940*      | *Côte de Copenhaguen - 1935-1940* | *Kjøbenhavns Handelsbank. Officielle Kurser paa Kjøbenhavns Børs (Uden Ansvar)/sl, sn].*                                                                                                                                                                                                                                                            |
 
 # Title
-Børstabeller, 1927-1935
+Børstabeller, 1927-1940
 
 ## Successive Titles
 Børstabeller for Aaret [date]: Københavns Fonds & Aktiebørs. Kurser og Oversigter (1927; 1930; 1935)
@@ -98,3 +100,4 @@ Danish.
 | Copenhagen | 1933 | Børstabeller                    |                                                                                                                                              |
 | Copenhagen | 1934 | Børstabeller                    |                                                                                                                                              |
 | Copenhagen | 1935 | Børstabeller                    | Børstabeller for Aaret (date) / Københavns Fonds & Aktiebørs / Kurser og Oversigter / Udgivne af dagbladet "Borsen" / redigerete af H. Stein |
+| *Copenhagen* | *1936-1939* | *Børstabeller*                    | *Børstabeller for Aaret (date) / Københavns Fonds & Aktiebørs / Kurser og Oversigter / Udgivne af dagbladet "Borsen" / redigerete af H. Stein* |
