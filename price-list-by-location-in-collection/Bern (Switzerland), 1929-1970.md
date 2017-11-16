@@ -37,6 +37,7 @@ German.
 | Bern     | 1933 | Cote de Berne - 1933                             |                                                                              |
 | Bern     | 1934 | Cote de Berne - 1934                             |                                                                              |
 | Bern     | 1935 | Cote de Berne - 1935                             |                                                                              |
+| *Bern*     | *1936-1939* | *Cote de Berne - 1936-1939*                             |                                                                              |
 | Bern     | 1941 | Cote officielle de Berne - 1941                  |                                                                              |
 | Bern     | 1942 | Cote officielle de Berne - 1942                  |                                                                              |
 | Bern     | 1943 | Cote officielle de Berne - 1943                  |                                                                              |
