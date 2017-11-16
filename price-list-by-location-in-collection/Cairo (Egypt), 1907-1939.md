@@ -59,3 +59,4 @@ French.
 | Cairo    | 1933      | Le Caire 1933                   | Commission de la Bourse des valeurs du Caire - Cote officielle du…                                                             |
 | Cairo    | 1934      | Le Caire 1934                   | Commission de la Bourse des valeurs du Caire - Cote officielle du…                                                             |
 | Cairo    | 1935      | Le Caire 1935                   | Commission de la Bourse des valeurs du Caire - Cote officielle du…                                                             |
+| *Cairo*    | *1936-1939*      | *Le Caire 1936-1939*                   | *Commission de la Bourse des valeurs du Caire - Cote officielle du…*                                                             |
