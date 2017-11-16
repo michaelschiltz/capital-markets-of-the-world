@@ -24,6 +24,7 @@ Belgrad Stock Exchange (Serbia)
 
 | Location | Year | Title (according to book spine)   | Detailed Bibliographic Info (according to source) |
 |----------|------|-----------------------------------|---------------------------------------------------|
+| *Belgrad*  | *1920-1921* | Belgrade : Banque Marmorosch, Blank & Co. |                                                   |
 | Belgrad  | 1921 | Cote officielle de Belgrade -1921 |                                                   |
 | Belgrad  | 1922 | Cote officielle de Belgrade 1922  | Cours officiels de la Bourse de Belgrade          |
 | Belgrad  | 1923 | Cote officielle de Belgrade 1923  |                                                   |
