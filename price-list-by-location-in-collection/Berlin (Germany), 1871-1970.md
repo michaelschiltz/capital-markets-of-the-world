@@ -101,6 +101,9 @@ German.
 | Berlin   | 1935      | Cote de Berlin - 1935 (2)                  | Amtliches Kursblatt der Berliner Wertpapierbörse                        |
 | Berlin   | 1935      | Cote de Berlin - 1935 (3)                  | Amtliches Kursblatt der Berliner Wertpapierbörse                        |
 | Berlin   | 1935      | Cote de Berlin - 1935 (4)                  | Amtliches Kursblatt der Berliner Wertpapierbörse                        |
+| *Berlin*   | *1936-1937*      | *Cote de Berlin - 1936-1937*                   | *Amtliches Kursblatt der Berliner Wertpapierbörse*                        |
+| *Berlin*   | *1938*      | *Cote de Berlin - 1938*                   | *Amtliches Kursblatt der Berliner Wertpapierbörse*                        |
+| *Berlin*   | *1939*      | *Cote de Berlin - 1939*                   | *Amtliches Kursblatt der Berliner Wertpapierbörse*                        |
 | Berlin   | 1955      | Cote de Berlin - janvier-avril 1955        | Amtliches Kursblatt der Berliner Wertpapierbörse                        |
 | Berlin   | 1955      | Cote de Berlin - mai-août 1955             | Amtliches Kursblatt der Berliner Wertpapierbörse                        |
 | Berlin   | 1955      | Cote de Berlin - septembre-décembre 1955   | Amtliches Kursblatt der Berliner Wertpapierbörse                        |
