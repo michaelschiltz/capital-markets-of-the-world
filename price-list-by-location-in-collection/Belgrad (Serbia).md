@@ -37,3 +37,4 @@ Belgrad Stock Exchange (Serbia)
 | Belgrad  | 1931 | Cote de Belgrade - 1931           |                                                   |
 | Belgrad  | 1932 | Cote de Belgrade - 1932           |                                                   |
 | Belgrad  | 1933 | Cote de Belgrade - 1933           |                                                   |
+| *Belgrad*  | *1936-1938* | *Cote de Belgrade - 1936-1938*           |                                                   |
