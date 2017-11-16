@@ -1,9 +1,9 @@
 # Title
-Budapest Stock Exchange (Hungary), 1897-1935
+Budapest Stock Exchange (Hungary), 1897-1938
 
 ## Successive Titles
 * Amtliches Cursblatt der Budapester Waaren und Effectenbörse (1897 to 1914)
-* A Budapesti Árú-És Értéktözsde Hivatalos Árjegyzölapja (1921 to 1935) 
+* A Budapesti Árú-És Értéktözsde Hivatalos Árjegyzölapja (1921 to 1938) 
 
 ## Author(s)/Editor(s)
 [s.n.]
@@ -80,3 +80,4 @@ Hungarian, German.
 | Budapest | 1933 | Cote de Budapest - 1933 (2)     | A Budapesti Aru- Es Ertektözsde Hivatalos Arjegyzölapja     | Pesti Lloyd-Tarsulat nyomdaja (Felelös es Muszaki Vezetö : Schulmann Ignac) |
 | Budapest | 1934 | Cote de Budapest - 1934         | A Budapesti Aru- Es Ertektözsde Hivatalos Arjegyzölapja     | Pesti Lloyd-Tarsulat nyomdaja (Felelös es Muszaki Vezetö : Schulmann Ignac) |
 | Budapest | 1935 | Cote de Budapest - 1935         | A Budapesti Aru- Es Ertektözsde Hivatalos Arjegyzölapja     | Pesti Lloyd-Tarsulat nyomdaja (Felelös es Muszaki Vezetö : Schulmann Ignac) |
+| *Budapest* | *1936-1938* | *Cote de Budapest - 1936-1938*         | *A Budapesti Aru- Es Ertektözsde Hivatalos Arjegyzölapja     | Pesti Lloyd-Tarsulat nyomdaja (Felelös es Muszaki Vezetö : Schulmann Ignac)* |
