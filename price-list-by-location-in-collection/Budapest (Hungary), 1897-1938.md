@@ -80,4 +80,4 @@ Hungarian, German.
 | Budapest | 1933 | Cote de Budapest - 1933 (2)     | A Budapesti Aru- Es Ertektözsde Hivatalos Arjegyzölapja     | Pesti Lloyd-Tarsulat nyomdaja (Felelös es Muszaki Vezetö : Schulmann Ignac) |
 | Budapest | 1934 | Cote de Budapest - 1934         | A Budapesti Aru- Es Ertektözsde Hivatalos Arjegyzölapja     | Pesti Lloyd-Tarsulat nyomdaja (Felelös es Muszaki Vezetö : Schulmann Ignac) |
 | Budapest | 1935 | Cote de Budapest - 1935         | A Budapesti Aru- Es Ertektözsde Hivatalos Arjegyzölapja     | Pesti Lloyd-Tarsulat nyomdaja (Felelös es Muszaki Vezetö : Schulmann Ignac) |
-| *Budapest* | *1936-1938* | *Cote de Budapest - 1936-1938*         | *A Budapesti Aru- Es Ertektözsde Hivatalos Arjegyzölapja     | Pesti Lloyd-Tarsulat nyomdaja (Felelös es Muszaki Vezetö : Schulmann Ignac)* |
+| *Budapest* | *1936-1938* | *Cote de Budapest - 1936-1938*         | *A Budapesti Aru- Es Ertektözsde Hivatalos Arjegyzölapja*     | *Pesti Lloyd-Tarsulat nyomdaja (Felelös es Muszaki Vezetö : Schulmann Ignac)* |
