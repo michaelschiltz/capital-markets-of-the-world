@@ -34,6 +34,7 @@ French.
 | Location   | Year      | Title (according to book spine)                 | Detailed Bibliographic Info (according to source)                                                                                            |
 |------------|-----------|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
 | Casablanca | 1930-1933 | Bourse de Casablanca 1930-1933                  | Bulletin de l'Office de compensation des valeurs marocaines/mobilières marocaines à Casablanca                                               |
+| *Casablanca* | *1934-1940* | *Bourse de Casablanca 1934-1940*                  | *Bulletin de l'Office de compensation des valeurs marocaines/mobilières marocaines à Casablanca*                                               |
 | Casablanca | 1946-1947 | Cote de Casablanca - octobre-décembre 1946-1947 | Bulletin de l'Office de cotation des valeurs mobilières marocaines (Secrétariat : chez Banque d'Etat du Maroc)                               |
 | Casablanca | 1948      | Cote de Casablanca 1948                         | Bulletin de l'Office de compensation des valeurs mobilières marocaines - Secrétariat : 115bis boulevard de Paris, Casablanca)                |
 | Casablanca | 1949      | Cote de Casablanca 1949                         | Bulletin de l'Office de cotation des valeurs mobilières de Casablanca                                                                        |
