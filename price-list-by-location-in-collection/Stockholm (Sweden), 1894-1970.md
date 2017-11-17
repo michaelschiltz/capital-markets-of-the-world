@@ -123,6 +123,9 @@ Swedish
 | Stockholm | 1933      | Cote de Stockholm - 1933                                 |                                                                      |                                            |
 | Stockholm | 1934      | Cote de Stockholm - 1934                                 |                                                                      |                                            |
 | Stockholm | 1935      | Cote de Stockholm - 1935                                 |                                                                      |                                            |
+| *Stockholm* | *1936-1937*      | *Cote de Stockholm - 1936-1937*                                 |                                                                      |                                            |
+| *Stockholm* | *1938*      | *Cote de Stockholm - 1938*                                 |                                                                      |                                            |
+| *Stockholm* | *1939*      | *Cote de Stockholm - 1939*                                 |                                                                      |                                            |
 | Stockholm | 1969      | Cotes de Stockholm - Actions - janvier-juin 1969         | Stockholms Fondbörs / Officiell Kurslista för Aktier (A-Listan)      | Utgivare : Börschefen. Stig Algott         |
 | Stockholm | 1969      | Cotes de Stockholm - Actions - juillet-décembre 1969     | Stockholms Fondbörs / Officiell Kurslista för Aktier M.M. (A-Listan) | Utgivare : Börschefen. Stig Algott         |
 | Stockholm | 1969      | Cotes de Stockholm - Obligations - janvier-mars 1969     | Stockholms Fondbörs / Officiell Kurslista för Obligationer M.M.      | Utgivare : Börschefen Stig Algott          |
