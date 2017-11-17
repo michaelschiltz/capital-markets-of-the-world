@@ -31,3 +31,4 @@
 | Sofia    | 1930-1931      | Cote de Sofia - 1930-31               |                                                   |
 | Sofia    | 1932-1933      | Cote de Sofia - 1932-1933             |                                                   |
 | Sofia    | 1934-1935      | Cote de Sofia - 1934-1935             |                                                   |
+| *Sofia*    | *1936-1939*      | *Cote de Sofia - 1936-1939*             |                                                   |
