@@ -37,3 +37,6 @@ English
 | Location | Year      | Title (according to book spine) | Detailed Bibliographic Info (according to source)               |                                 |
 |----------|-----------|---------------------------------|-----------------------------------------------------------------|---------------------------------|
 | Shanghai | 1909-1911 | Cote de Shanghaï - 1909-1911    | J.P. Bisset & Co's Share Report. Supplement to the N.-C. Herald | J.P. Bisset & Co., sharebrokers |
+| *Shanghai* | *1912-1914* | *Cote de Shanghaï - 1912-1914*    | *J.P. Bisset & Co's Share Report. Supplement to the N.-C. Herald* | *J.P. Bisset & Co., sharebrokers* |
+| *Shanghai* | *1916* | *Cote de Shanghaï - 1916*    | *J.P. Bisset & Co's Share Report. Supplement to the N.-C. Herald* | *J.P. Bisset & Co., sharebrokers* |
+| *Shanghai* | *1918-1919* | *Cote de Shanghaï - 1918-1919*    | *J.P. Bisset & Co's Share Report. Supplement to the N.-C. Herald* | *J.P. Bisset & Co., sharebrokers* |
