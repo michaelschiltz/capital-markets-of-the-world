@@ -24,3 +24,7 @@
 |----------|------|---------------------------------|---------------------------------------------------|
 | Prague   | 1921 | Cote de Prague - 1921           |                                                   |
 | Prague   | 1922 | Cote de Prague - 1922           |                                                   |
+| *Prague*   | *1923* | *Cote de Prague - 1923*           |                                                   |
+| *Prague*   | *1926* | *Cote de Prague - 1926*           |                                                   |
+| *Prague*   | *1931-1934* | *Cote de Prague - 1931-1934*           |                                                   |
+| *Prague*   | *1935* | *Cote de Prague - 1935*           |                                                   |
