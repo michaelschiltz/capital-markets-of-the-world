@@ -72,6 +72,8 @@ Norwegian
 | Oslo     | 1910-1912 | Kursbladett - 1910-1912              |                                                                    |                                                 |
 | Oslo     | 1913-1915 | Kursbladett - 1913-1915              |                                                                    |                                                 |
 | Oslo     | 1916-1917 | Kursbladett - 1916-1917              | Kursbladet / Kristiania Børs. Officiel Kursliste Over Værdipapirer |  Udgived af Christie Heiberg, Carl Kierulf & Co |
+| Oslo     | 1918      | Cote officielle de Christiana - 1918 |                                                                    |                                                 |
+| Oslo     | 1919      | Cote officielle de Christiana - 1919 |                                                                    |                                                 |
 | Oslo     | 1920      | Cote officielle de Christiana - 1920 |                                                                    |                                                 |
 | Oslo     | 1921      | Cote officielle de Christiana - 1921 |                                                                    |                                                 |
 | Oslo     | 1922      | Cote officielle de Christiana - 1922 |                                                                    |                                                 |
@@ -88,8 +90,7 @@ Norwegian
 | Oslo     | 1933      | Cote d'Oslo - 1933                   |                                                                    |                                                 |
 | Oslo     | 1934      | Cote d'Oslo - 1934                   |                                                                    |                                                 |
 | Oslo     | 1935      | Cote d'Oslo - 1935                   |                                                                    |                                                 |
-| Oslo     | 1918      | Cote officielle de Christiana - 1918 |                                                                    |                                                 |
-| Oslo     | 1919      | Cote officielle de Christiana - 1919 |                                                                    |                                                 |
+| *Oslo*     | *1936-1939*      | *Cote d'Oslo - 1936-1939*                   |                                                                    |                                                 |
 | Oslo     | 1956      | Cote d'Oslo - janvier-juin 1956      | Borskurslisten. Offisiell kursliste over obligasjoner og aksjer    |                                                 |
 | Oslo     | 1956      | Cote d'Oslo - juillet-décembre 1956  |                                                                    |                                                 |
 | Oslo     | 1957      | Cote d'Oslo - janvier-juin 1957      |                                                                    |                                                 |
