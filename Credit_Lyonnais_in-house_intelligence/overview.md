@@ -34,17 +34,17 @@
 | FINTEL : Corée                                                                              | xx                                                                                         |
 | FINTEL : Costa Rica                                                                         | xx                                                                                         |
 | FINTEL : Cours à Paris exprimés en % de leur valeur nominale de quelques valeurs françaises | xx                                                                                         |
+| FINTEL : idem pour Berlin                                                                   | xx                                                                                         |
+| FINTEL : idem pour Londres                                                                  | xx                                                                                         |
+| FINTEL : idem pour Milan                                                                    | xx                                                                                         |
+| FINTEL : idem pour New York                                                                 | xx                                                                                         |
 | FINTEL : Cours authentique (Paris et Lyon)                                                  | 1869-1880                                                                                  |
 | FINTEL : Cuba                                                                               | xx                                                                                         |
 | FINTEL : Danemark                                                                           | xx                                                                                         |
 | FINTEL : Dantzig                                                                            | xx                                                                                         |
 | FINTEL : Détroits (Straits Settlements)                                                     | xx                                                                                         |
-| FINTEL : idem pour Berlin                                                                   | xx                                                                                         |
-| FINTEL : idem pour Londres                                                                  | xx                                                                                         |
-| FINTEL : idem pour Milan                                                                    | xx                                                                                         |
-| FINTEL : idem pour New York                                                                 | xx                                                                                         |
 | FINTEL : Panama                                                                             | xx                                                                                         |
-| FINTEL : Partaguay                                                                          | xx                                                                                         |
+| FINTEL : Paraguay                                                                          | xx                                                                                         |
 | FINTEL : Perse. Iran                                                                        | xx                                                                                         |
 | FINTEL : Philippines                                                                        | xx                                                                                         |
 | FINTEL : Pologne                                                                            | xx                                                                                         |
