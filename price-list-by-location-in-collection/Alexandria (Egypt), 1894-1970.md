@@ -31,7 +31,7 @@ French.
 * Bouvier, Jean. 1960. “Les Intérêts Financiers et La Question d’Egypte (1875-1876).” *Revue Historique* 224 (1): 75–104. http://www.jstor.org/stable/40949336.
 * Egypt, ed. 1908. *Statistique Des Valeurs Mobilières Traitées À La Bourse Du Caire Admises Ou Non À La Cote Officielle Pendant Les Années 1906-1907*. Le Caire: Imprimerie nationale.
 * Egypt, Ḥāmid Muḥammad ʻAlī, and Fuʼād Muḥammad Sālim Ṭaḥāwī, eds. 1986. *Al-Qānūn Raqm 161 Li-Sanat 1957 Bi-Al-Lāʼiḥah Al-ʻāmmah Li-Būrṣāt Al-Awrāq Al-Mālīyah Wafqan Li-Ākhir Al-Taʻdīlāt*. Al-Ṭabʻah 1. al-Qāhirah: al-Hayʼah al-ʻĀmmah li-Shuʼūn al-Maṭābiʻ al-Amīrīyah.   القانون رقم ١٦١ لسنة ١٩٥٧ باللائحة العامة لبورصات الأوراق المالية وفقاً لآخر التعديلات. الطبعة ١. القاهرة: العامة لشؤن المطابع العامرية
-* Ḥasan, ʻAbd al-Sattār Bakrī. 1998. *Būrṣāt Al-Awrāq Al-Mālīyah Fī Miṣr: Nashʼatuhā Wa-Taṭawwuruhā Wa-Adawātuhā Wa-Awḍāʻ Al-Taʻāmul Fīhā*. Al-Ṭabʻah 1. Alexandria, Egypt: ʻA.al-S.B. Ḥasan. بورصات الأوراق المالية في مصر: نشأتها و تطورها و أدواتها و أوضاع التأمل فيها. الطبعة ١. الأسكندرية، مصر
+* Ḥasan, ʻAbd al-Sattār Bakrī. 1998. *Būrṣāt Al-Awrāq Al-Mālīyah Fī Miṣr: Nashʼatuhā Wa-Taṭawwuruhā Wa-Adawātuhā Wa-Awḍāʻ Al-Taʻāmul Bīhā*. Al-Ṭabʻah 1. Alexandria, Egypt: ʻA.al-S.B. Ḥasan. بورصات الأوراق المالية في مصر: نشأتها و تطورها و أدواتها و أوضاع التأمل فيها. الطبعة ١. الأسكندرية، مصر
 * J. C, ed. 1878. *Histoire Financière de l'Égypte Depuis Sai̤d Pacha; 1854-1876*. Paris: Guillaumin et cie.
 * *Le Journal d’Alexandrie et La Bourse Égyptienne*. n.d. Alexandrie: Société égyptienne de publicité.
 * Raafat, Samir W. 2010. *The Egyptian Bourse*. Cairo: Zeitouna.
