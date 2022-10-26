@@ -24,6 +24,22 @@ German.
 
 ## List of References
 
+* Baltzarek, Franz. 1973. *Die Geschichte der Wiener Börse: öffentliche Finanzen und privates Kapital im Spiegel einer österreichischen Wirtschaftsinstitution*. (AT-OBV)AC00040644 1. Wien: Verl. d. Österr. Akademie d. Wissenschaften.
+* Granichstaedten-Czerva, Rudolf von. 1927. *Die Wiener Börse und ihre Geschichte*. Wien: Lotties. http://data.onb.ac.at/imgk/AZ00372236SZ01287142.
+* Hofer, Martin Helmut Erich. 1996. *Die Wiener Börse im Lauf der Geschichte und ihre Bedeutung für die österreichische Wirtschaft*.  
+* Neuteufel, Kurt. 1976. *Die Geschichte der Schiedsgerichte der Wiener Börse: (1876 bis 1975)*. (AT-OBV)AC00675345 3. Wien: Verl. d. Wiener Börsekammer.
+* Schmit, Johann. 2003. *Die Geschichte der Wiener Börse: ein Vierteljahrtausend Wertpapierhandel ; warum es Aktien in Wien immer schon schwer hatten. Wien: Bibliophile Ed.
+* Schwaetzer, Joseph Isidor. 1921. *150 Jahre Wiener Börse. Geschichte der Wiener Börse von ihrer Gründung bis zur Gegenwart 1771-1921*. F stschrift (etc.). Wien: Vernay. http://data.onb.ac.at/imgk/AZ00897932SZ01287175.
+* Wiener Börsekammer. 1971. *200 Jahre Wiener Börse: Ansprachen anläßlich des Festaktes am 16. September 1971*. Wien: Selbstverl. der Wiener Börsekammer.
+
+
+  
+  
+
+
+  
+  
+
 ## Holdings (complete)
 
 > * note: previously non-located/non-identified (and mostly unbound) volumes are indicated *in italics*.
