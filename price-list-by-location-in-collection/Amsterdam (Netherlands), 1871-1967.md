@@ -67,8 +67,11 @@ French, Dutch.
 * ———. 1987. “The Integration and Efficiency of the London and Amsterdam Stock Markets in the Eighteenth Century.” *The Journal of Economic History* 47 (01): 97–115. http://journals.cambridge.org/article_S0022050700047434.
 * ———. 1988. “The Rise of a Financial Press: London and Amsterdam, 1681–1810.” *Business History* 30 (2): 163–78. http://www.tandfonline.com/doi/pdf/10.1080/00076798800000029.
 * ———. 1993. *The Rise of Financial Capitalism: International Capital Markets in the Age of Reason*. Cambridge University Press. 
+* Petram, Lodewijk Otto. 2012. *De Bakermat van de Beurs: Hoe in Zeventiende-Eeuws Amsterdam de Moderne Aandelenhandel Ontstond*. Amsterdam: Atlas Contact.
 * Petram, Lodewijk. 2014. *The World’s First Stock Exchange*. Columbia University Press.
+* Scheltema, P. 1846. *De Beurs van Amsterdam*. G. Portielje.
 * Smith, M. F. J. 1919. *Tijd-Affaires in effecten aan de Amsterdamsche Beurs: door Dr. M. F. J. Smith*. Nijhoff.
+* Weissman, Adriaan Willem. 1904. *De Beurs Te Amsterdam: 1835-1903*. Amsterdam: Wolf.
 * Winden, Martien van. 2000. *Rijk Blijven: Het Ijzersterke Verhaal van 4 Eeuwen Nederlandse Rente En Aandelen*. 2. druk. Amsterdam: Balans.
 
 ## Holdings (detailed)
