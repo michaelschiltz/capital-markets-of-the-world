@@ -31,6 +31,7 @@ French.
 ## List of References
 * Clercq, Geert de, ed. 1992. *Ter Beurze: Geschiedenis van de Aandelenhandel in België, 1300-1990*. Brugge : Antwerpen: Van de Wiele ; Tijd.
 * Denucé, J. 1931. “De Beurs van Antwerpen, oorsprong en eerste ontwikkeling, 15e en 16e eeuwen.” In: *Antwerpsch Archievenblad*. Antwerpen, Dienst der Stadsarchieven, pp. 80-145
+* Ottomer, Tanguy, Hadewijch Ceulemans, and Sandy Logan. 2020. *Handelsbeurs Antwerpen: past & present*. Antwerpen: Luster.
 
 ## Holdings (detailed)
 
