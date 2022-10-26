@@ -62,13 +62,14 @@ French, Dutch.
 
 ## List of References
 * Grossmann, Julius. Die Amsterdam Borse Vor 200 Jahren : Ein Beitrag Zur Geschichte Der Politik Und Des ..: Ein Beitrag Zur Geschichte Der Politik Und Des ... Haag : Martinus Nijhoff, 1876.
-* Hem, Piet van der, and H. P. L. Wiessing. 1915. Het Raadsel van de Sphinx: Heropening van de Amsterdamsche Effectenbeurs, 9 Febr. 1915. Graphic.
+* Heijer, Hendrik Jacob den. 2002. *De VOC En de Beurs: De Verenigde Oost-Indische Compagnie Als Grondlegger van de Eerste Aandelenbeurs = The VOC and the Exchange : How the VOC Laid the Foundations for the World’s First Stock Exchange*. Edited by Frits Beutick, Alexander Frederik Heerma van Voss, and Vicky Trees. Amsterdam: Euronext Amsterdam NV : Stichting Vereniging voor de Effectenhandel (Stichting VvdE) Amsterdam : Uitgeverij Aksant.
+* Hem, Piet van der, and H. P. L. Wiessing. 1915. *Het Raadsel van de Sphinx: Heropening van de Amsterdamsche Effectenbeurs*, 9 Febr. 1915. Graphic.
 * Neal, Larry. 1982. “Efficient Markets in the Eighteenth Century? Stock Exchanges in Amsterdam and London.” *Business and Economic History*, 81–101. http://www.jstor.org/stable/23702759.
 * ———. 1987. “The Integration and Efficiency of the London and Amsterdam Stock Markets in the Eighteenth Century.” *The Journal of Economic History* 47 (01): 97–115. http://journals.cambridge.org/article_S0022050700047434.
 * ———. 1988. “The Rise of a Financial Press: London and Amsterdam, 1681–1810.” *Business History* 30 (2): 163–78. http://www.tandfonline.com/doi/pdf/10.1080/00076798800000029.
-* ———. 1993. *The Rise of Financial Capitalism: International Capital Markets in the Age of Reason*. Cambridge University Press. 
+* . 1993. *The Rise of Financial Capitalism: International Capital Markets in the Age of Reason*. Cambridge University Press. 
 * Petram, Lodewijk Otto. 2012. *De Bakermat van de Beurs: Hoe in Zeventiende-Eeuws Amsterdam de Moderne Aandelenhandel Ontstond*. Amsterdam: Atlas Contact.
-* Petram, Lodewijk. 2014. *The World’s First Stock Exchange*. Columbia University Press.
+* ———. 2014. *The World’s First Stock Exchange*. Columbia University Press.
 * Scheltema, P. 1846. *De Beurs van Amsterdam*. G. Portielje.
 * Smith, M. F. J. 1919. *Tijd-Affaires in effecten aan de Amsterdamsche Beurs: door Dr. M. F. J. Smith*. Nijhoff.
 * Weissman, Adriaan Willem. 1904. *De Beurs Te Amsterdam: 1835-1903*. Amsterdam: Wolf.
