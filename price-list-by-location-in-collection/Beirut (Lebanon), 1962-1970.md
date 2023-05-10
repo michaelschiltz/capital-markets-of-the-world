@@ -1,4 +1,5 @@
 # Title
+
 Beirut Stock Exchange (Lebanon), 1962-1970
 
 ## Successive Titles
@@ -8,6 +9,7 @@ Bulletin quotidien de la Bourse de Beyrouth : Cours authentique et officiel (196
 [s.n]. 
 
 ## Place of Publication & Name of Publisher
+
 Beirut: Impr. du journal *Le Commerce du Levant*.
 
 ## Holdings Overview
