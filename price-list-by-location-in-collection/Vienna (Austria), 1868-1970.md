@@ -32,7 +32,7 @@ German.
 * Huss, Margaethe. 1996. *Wiener Börse: eine historische Betriebsanalyse*.
 * Kirschner, Stefan. 2008. Die Entwicklung der Wiener Börse: Organisation, Kapitalmarkt, gesetzlicher Rahmen von 1761 - 2002. Saarbrücken: VDM, Verl. Dr. Müller. http://d-nb.info/989292029/04.  
 * Neuteufel, Kurt. 1976. *Die Geschichte der Schiedsgerichte der Wiener Börse: (1876 bis 1975)*. (AT-OBV)AC00675345 3. Wien: Verl. d. Wiener Börsekammer.
-* Schmit, Johann. 2003. *Die Geschichte der Wiener Börse: ein Vierteljahrtausend Wertpapierhandel ; warum es Aktien in Wien immer schon schwer hatten. Wien: Bibliophile Ed.
+* Schmit, Johann. 2003. *Die Geschichte der Wiener Börse: ein Vierteljahrtausend Wertpapierhandel; warum es Aktien in Wien immer schon schwer hatten*. Wien: Bibliophile Ed.
 * Schwaetzer, Joseph Isidor. 1921. *150 Jahre Wiener Börse. Geschichte der Wiener Börse von ihrer Gründung bis zur Gegenwart 1771-1921*. F stschrift (etc.). Wien: Vernay. http://data.onb.ac.at/imgk/AZ00897932SZ01287175.
 * Wiener Börsekammer. 1971. *200 Jahre Wiener Börse: Ansprachen anläßlich des Festaktes am 16. September 1971*. Wien: Selbstverl. der Wiener Börsekammer.
 
