@@ -1,35 +1,44 @@
 # Title
+
 Bordeaux Stock Exchange (France), 1871-1968
 
 ## Successive Titles
+
 * Bourse de Bordeaux : Cours officiel (1871-1872)  
 * Bulletin de la Cote : Première partie [/seconde partie] - Cours authentique et officiel - Cours quotidien (1893-1939)
 * Bulletin de la Cote (quotidien) - Cours authentique et officiel (1940-June 1965)
 * Bulletin de la Cote (quotidien) - Bourse de Bordeaux (July 1965-1968)
 
 ## Author(s)/Editor(s)
+
 Compagnie des agents de change de Bordeaux (1871-1968).  
 
 ## Place of Publication & Name of Publisher
-* Bordeaux: Impr.générale d’Emile Crugy (1871-1872, 1893); 
+
+* Bordeaux: Impr.générale d'Emile Crugy (1871-1872, 1893); 
 * Imprimerie de la Chambre syndicale des Agents de change (1894-1923);  
 * G.Frayssé, imprimeur de la Chambre syndicale des Agents de change (1924-1939); 
 * R. Samie, Imprimerie spéciale des Agents de Change (1940-1968).
 
 ## Holdings Overview
+
 1871-1872, 1893-1919, 1921-1935, 1939-1968.
 
 ## Description
+
 42-46 cm.
 
 ## Notes
+
 Description based on a complete survey of the collection.
 The volumes of 1871-1872 and 1893 contain the following reference : « Bureaux [of the Compagnie des agents de change de Bordeaux]: Rue et hôtel Saint-Siméon, 16 » (same location as the printer). From 1916, the publication holds the mention: « Compagnie des Agents de change de Bordeaux [Chambre syndicale], Palais de la Bourse ».   
 
 ## Language
+
 French. 
 
 ## List of References
+
 * Marais, Robert [from old catalog]. 1934. *Le Marché À Terme Des Valeurs Mobilières À La Bourse de Paris et La Crise Économique Actuelle*. Bordeaux: Y. Cadoret, Delmas, successeur.
 
 ## Holdings (detailed)
@@ -38,7 +47,7 @@ French.
 
 | Location  | Year      | Title (according to book spine)                         | Detailed Bibliographic Info (according to source)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 |-----------|-----------|---------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Bordeaux  | 1871-1872 | Cours de la Bourse de Bordeaux - 5 août 1871 à fin 1872 | Bourse de Bordeaux : Cours officiel/Compagnie des agents de change/Bordeaux : Impr.générale d’Emile Crugy//Bureaux : Rue et hôtel Saint-Siméon, 16.Mêmes bureaux que l’imprimerie.                                                                                                                                                                                                                                                                                                                                                                                      |
+| Bordeaux  | 1871-1872 | Cours de la Bourse de Bordeaux - 5 août 1871 à fin 1872 | Bourse de Bordeaux : Cours officiel/Compagnie des agents de change/Bordeaux : Impr.générale d'Emile Crugy//Bureaux : Rue et hôtel Saint-Siméon, 16.Mêmes bureaux que l'imprimerie.                                                                                                                                                                                                                                                                                                                                                                                      |
 | Bordeaux  | 1893      | Cours de la Bourse de Bordeaux - 1893                   | Compagnie des Agents de Change de Bordeaux - Bulletin de la Cote - Première partie /seconde partie] - Cours authentique et officiel - Bourse de heure] - date] - Cours quotidien - Pour les abonnements et pour tous les renseignements : s'adresser à l'Imprimerie générale d'Emile Crugy, mme veuve Riffaud, née Crugy, successeur - Bordeaux, 16 rue et hôtel Saint-Siméon                                                                                                                                                                                           |
 | Bordeaux  | 1894      | Cours de la Bourse de Bordeaux - 1894                   | Compagnie des Agents de Change de Bordeaux - Bulletin de la Cote - Première partie /seconde partie] - Cours authentique et officiel - Bourse de heure] - date] - Cours quotidien - Pour les abonnements et pour tous les renseignements : s'adresser à l'Imprimerie de la Chambre syndicale des Agents de change, rue de la Bourse, 11-13, Bordeaux                                                                                                                                                                                                                     |
 | Bordeaux  | 1895      | Cours de la Bourse de Bordeaux - 1895                   | Compagnie des Agents de Change de Bordeaux - Bulletin de la Cote - Première partie /seconde partie] - Cours authentique et officiel - Bourse de heure] - date] - Cours quotidien - Pour les abonnements et pour tous les renseignements : s'adresser à l'Imprimerie de la Chambre syndicale des Agents de change, rue de la Bourse, 11-13, Bordeaux                                                                                                                                                                                                                     |
