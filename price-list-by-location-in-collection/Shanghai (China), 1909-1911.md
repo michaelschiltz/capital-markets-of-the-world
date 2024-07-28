@@ -1,28 +1,37 @@
 # Title
+
 Shanghai Stock Exchange (China), 1909-1911
 
 ## Successive Titles
+
 J.P. Bisset & Co's Share Report. Supplement to the N.-C. Herald.
 
 ## Author(s)/Editor(s)
+
 J.P. Bisset & Co., sharebrokers
 
 ## Place of Publication & Name of Publisher
+
 [s.l]; [s.n]. 
 
 ## Holdings Overview
+
 1909-1911.
 
 ## Description
+
 69 cm.
 
 ## Notes
+
 Description based on volume 1909-1911.
 
 ## Language
+
 English
 
 ## List of References
+
 * Liu, Zhiying. 2004. *Jin dai Shanghai Hua shang zheng quan shi chang yan jiu =: Jindai Shanghai huashang zhengquan shichang yanjiu*. Di 1 ban. Shanghai: Xue lin chu ban she.
 * ———. 2011. *Jin Dai Zhongguo Hua Shang Zheng Quan Shi Chang Yan Jiu*. Di 1 ban. Beijing: Zhongguo she hui ke xue chu ban she.
 * Ma, Qingquan, Qing Wu, and Zhao Liu, eds. 2009. *Zhongguo Zheng Quan Shi*. Di 1 ban. Beijing: Zhongguo jin rong chu ban she.

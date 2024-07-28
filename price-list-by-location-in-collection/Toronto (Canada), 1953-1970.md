@@ -1,4 +1,5 @@
 # Title
+
 Toronto Official Price Lists, 1949-1970
 
 ## Successive Titles
@@ -19,6 +20,7 @@ Toronto Official Price Lists, 1949-1970
 
 
 # Title
+
 Cote de Toronto – Actions – Revue mensuelle, 1957-1970
 
 ## Successive Titles
