@@ -1,34 +1,44 @@
 # Title
+
 Oslo Stock Exchange (Norway), 1908-1970
 
 ## Successive Titles
+
 * Kursbladet. Mæglernes Fællesnotering (1908-1910)
 * Kursbladet. Kristiania Børs. Officiel Kursliste over Værdipapirer (1916-1917)  
 * Børskurslisten. Offisiell Kursliste over obligasjoner og aksjer (1956 (Jan.-June); 1960 (Jan.-June), 1970 (Jan.-June)
 
 ## Author(s)/Editor(s)
+
 [s.n.]
 
 ## Place of Publication & Name of Publisher
+
 [s.l.]; [s.n.]
 
 ## Holdings Overview
+
 1908-1935, 1956-1970.
 
 ## Description
+
 44-61 cm.
 
 ## Notes
+
 Description based on volumes: 1908-1910; 1916-1917; 1956 (Jan.-June); 1960 (Jan.-June), 1970 (Jan.-June). The collection was digitised in 2011 (a joint project of the Graduate Institute/University of Stavanger): [Historical data from the Oslo Stock Exchange 1909 - 1970](http://www1.uis.no/prosjekt/borskurs/) 
 
 ## Language
+
 Norwegian
 
 ## List of References
+
 ### secondary sources:
+
 * *Håndbok over Norske Obligasjoner Og Aksjer*. n.d. Kragerø: Naper.
-* Amnéus, Johan Gustav. 1900a. *Kort Historisk Fremstilling Af Kristiania By’s Handel, Skibsfart Og Industri*. Kristiania: Trykt i Nationaltrykkeriet.
-* ———. 1900b. *La Ville de Kristiania, Son Commerce, Sa Navigation et Son Industrie*. Kristiania: Imprimé par la “Nationaltrykkeri,.”
+* Amnéus, Johan Gustav. 1900a. *Kort Historisk Fremstilling Af Kristiania By's Handel, Skibsfart Og Industri*. Kristiania: Trykt i Nationaltrykkeriet.
+* ———. 1900b. *La Ville de Kristiania, Son Commerce, Sa Navigation et Son Industrie*. Kristiania: Imprimé par la "Nationaltrykkeri,."
 * *Kierulfs Håndbøke*r. n.d. Oslo: A/S Oslo Børs informasjon.
 * Larpent, Sophus Edmé, and Skatteborger. [from old catalo]g. 1902. *Mageskiftet. Kristiania Kommunes Eiendom Bazarboderneog-Brandvagten Mod Børs-Bygningen-Og-Haven Fra økonomisk Og Eiendomsretligt Synspunkt*. Kristiania: I kommission ho Cammermeyers boghandel.
 * Oslo, ed. 18. *Beretning Om Kristiania Handel*. Kristiania.
