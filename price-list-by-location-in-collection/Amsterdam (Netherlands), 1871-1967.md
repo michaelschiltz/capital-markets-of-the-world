@@ -11,7 +11,7 @@ Official Price Lists, 1871-1967
   * Amsterdamsch Effectenblad. 1843–1943. Amsterdam: T. Geers Jz.
   * Het Amsterdamsch Handels- En Effectenblad. 1863–1864. Amsterdam: P.D. van Es.
   * Nieuw Amsterdamsch Handels- En Effectenblad. 1857–1863. Amsterdam.
-  * Prys-Courant Der Effecten, Berichten van Negotiatiën, Uitlotinge, Aflossingen En Betaalingen van Interessen. 1796–1842. Amsterdam: N. Cotray.
+  * Prys-Courant Der Effecten, Berichten van Negotiatiën, Uitlotingen, Aflossingen En Betaalingen van Interessen. 1796–1842. Amsterdam: N. Cotray.
 
 ## Author(s)/Editor(s)
 
